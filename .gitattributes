@@ -224,7 +224,6 @@ mpeg2enc/quantize_ref.h -text
 mpeg2enc/quantize_x86.c -text
 mpeg2enc/ratectl.cc -text
 mpeg2enc/ratectl.hh -text
-mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/seqencoder.hh -text
 mpeg2enc/simd.h -text
 mpeg2enc/stats.cc -text
