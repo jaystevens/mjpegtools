@@ -79,6 +79,8 @@ lavtools/ypipe.c -text
 lavtools/yuv2lav.c -text
 lavtools/yuv4mpeg.c -text
 lavtools/yuv4mpeg.h -text
+lavtools/yuvscaler.c -text
+lavtools/yuvscaler.h -text
 /missing -text
 /mjpeg_howto.txt -text
 /mkinstalldirs -text
