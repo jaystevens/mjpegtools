@@ -99,6 +99,7 @@ lavtools/lavplay.c -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
+lavtools/libavifile.h -text
 lavtools/liblavplay.c -text
 lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
