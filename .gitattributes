@@ -30,6 +30,7 @@ aenc/table_enwindow.h -text
 aenc/table_th.h -text
 aenc/tables.c -text
 aenc/tonal.c -text
+aenc/wav_io.c -text
 /audiolib.c -text
 /autogen.sh -text
 /avilib.c -text
