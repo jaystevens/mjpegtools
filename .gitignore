@@ -29,8 +29,11 @@ lavtools/lavvideo
 lavtools/testrec
 lavtools/v4l-conf
 lavtools/xlav
+mpeg2enc/.deps
 mpeg2enc/Makefile
 mpeg2enc/Makefile.in
+mpeg2enc/mjpegcat
+mpeg2enc/mpeg2enc
 mplex/.deps
 mplex/.libs
 mplex/Makefile
