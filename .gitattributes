@@ -127,6 +127,7 @@ mplex/systems.c -text
 mplex/timecode.c -text
 mplex/vector.c -text
 mplex/vector.h -text
+scripts/lav2mpeg -text
 scripts/linkmpeg -text
 utils/Makefile -text
 utils/lavaddwav.c -text
