@@ -131,6 +131,7 @@ lavtools/yuvcorrect.c -text
 lavtools/yuvcorrect.h -text
 lavtools/yuvcorrect_functions.c -text
 lavtools/yuvcorrect_tune.c -text
+lavtools/yuvfps.c -text
 lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
