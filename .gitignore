@@ -64,6 +64,7 @@ lavtools/yuvscaler
 /libtool
 /ltmain.sh
 /mjpegtools-*.tar.gz
+/mjpegtools-config
 mpeg2enc/.deps
 mpeg2enc/.libs
 mpeg2enc/Makefile
@@ -77,8 +78,7 @@ mplex/Makefile.in
 mplex/mplex
 scripts/Makefile
 scripts/Makefile.in
-/stamp-h
-/stamp-h.in
+/stamp-h*
 utils/.deps
 utils/Makefile
 utils/Makefile.in
