@@ -61,6 +61,7 @@ lavtools/lavplay.c -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
+lavtools/matteblend.flt.c -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/test.el -text
