@@ -1,5 +1,18 @@
 * text=auto !eol
+/CHANGES -text
+/COPYING -text
 /Makefile -text
+/README -text
+/README.avilib -text
+/audiolib.c -text
+/avilib.c -text
+/avilib.h -text
+/editlist.c -text
+/editlist.h -text
+/lav_io.c -text
+/lav_io.h -text
+/lavplay.c -text
+/lavrec.c -text
 /movtar.c -text
 /movtar.h -text
 /movtar_play.c -text
