@@ -275,6 +275,7 @@ utils/altivec/build_sub44_mests.c -text
 utils/altivec/detect.c -text
 utils/altivec/fdct_idct.c -text
 utils/altivec/find_best_one_pel.c -text
+utils/altivec/idct.c -text
 utils/altivec/iquant_non_intra_m1.c -text
 utils/altivec/motion.c -text
 utils/altivec/pred_comp.c -text
