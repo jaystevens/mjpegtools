@@ -61,6 +61,7 @@ lavtools/matteblend.flt
 lavtools/multiblend.flt
 lavtools/pgmtoy4m
 lavtools/png2yuv
+lavtools/pnmtoy4m
 lavtools/ppmtoy4m
 lavtools/testrec
 lavtools/transist.flt
@@ -72,6 +73,7 @@ lavtools/y4minterlace
 lavtools/y4mshift
 lavtools/y4mspatialfilter
 lavtools/y4mstabilizer
+lavtools/y4mtopnm
 lavtools/y4mtoppm
 lavtools/y4mtoyuv
 lavtools/ypipe

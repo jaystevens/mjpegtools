@@ -74,9 +74,11 @@ docs/mpeg2enc.1 -text
 docs/mplex.1 -text
 docs/pgmtoy4m.1 -text
 docs/png2yuv.1 -text
+docs/pnmtoy4m.1 -text
 docs/ppmtoy4m.1 -text
 docs/y4mcolorbars.1 -text
 docs/y4mdenoise.1 -text
+docs/y4mtopnm.1 -text
 docs/y4mtoppm.1 -text
 docs/y4munsharp.1 -text
 docs/yuv2lav.1 -text
@@ -132,6 +134,7 @@ lavtools/pgmtoy4m.c -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/png2yuv.c -text
+lavtools/pnmtoy4m.c -text
 lavtools/ppmtoy4m.c -text
 lavtools/riffinfo.h -text
 lavtools/subsample.c -text
@@ -144,6 +147,7 @@ lavtools/y4minterlace.c -text
 lavtools/y4mshift.c -text
 lavtools/y4mspatialfilter.c -text
 lavtools/y4mstabilizer.c -text
+lavtools/y4mtopnm.c -text
 lavtools/y4mtoppm.c -text
 lavtools/y4mtoyuv.c -text
 lavtools/ypipe.c -text
