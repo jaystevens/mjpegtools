@@ -99,6 +99,7 @@ mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.c -text
 mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
+mpeg2enc/predcomp_mmxe.s -text
 mpeg2enc/predict.c -text
 mpeg2enc/predict_mmx.s -text
 mpeg2enc/putbits.c -text
