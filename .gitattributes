@@ -233,8 +233,12 @@ yuvfilters/alloctask.c -text
 yuvfilters/initframe.c -text
 yuvfilters/main.c -text
 yuvfilters/putframe.c -text
+yuvfilters/yuvfilter.c -text
+yuvfilters/yuvfilter_static.c -text
+yuvfilters/yuvfilter_static.h -text
 yuvfilters/yuvfilters.h -text
 yuvfilters/yuvkineco.c -text
 yuvfilters/yuvstdin.c -text
 yuvfilters/yuvstdout.c -text
+yuvfilters/yuvthru.c -text
 yuvfilters/yuvycsnoise.c -text
