@@ -357,7 +357,15 @@ utils/yuv4mpeg.h -text
 utils/yuv4mpeg_intern.h -text
 utils/yuv4mpeg_ratio.c -text
 yuvdeinterlace/Makefile -text
+yuvdeinterlace/blend_fields.c -text
+yuvdeinterlace/blend_fields.h -text
+yuvdeinterlace/copy_frame.c -text
+yuvdeinterlace/copy_frame.h -text
+yuvdeinterlace/interleave.c -text
+yuvdeinterlace/interleave.h -text
 yuvdeinterlace/main.c -text
+yuvdeinterlace/sinc_interpolation.c -text
+yuvdeinterlace/sinc_interpolation.h -text
 yuvdenoise/COPYING -text
 yuvdenoise/ChangeLog -text
 yuvdenoise/Makefile.am -text
