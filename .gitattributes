@@ -60,6 +60,7 @@ docs/yuvscaler.1 -text
 /install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
+lavtools/audiolib.h -text
 lavtools/avilib.c -text
 lavtools/avilib.h -text
 lavtools/editlist.c -text
