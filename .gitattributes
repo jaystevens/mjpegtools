@@ -214,6 +214,8 @@ utils/motionsearch.c -text
 utils/motionsearch.h -text
 utils/mpegconsts.c -text
 utils/mpegconsts.h -text
+utils/mpegtimecode.c -text
+utils/mpegtimecode.h -text
 utils/videodev_mjpeg.h -text
 utils/yuv4mpeg.c -text
 utils/yuv4mpeg.h -text
