@@ -68,6 +68,7 @@ lavtools/v4l-conf
 lavtools/xlav
 lavtools/y4mblack
 lavtools/y4mcolorbars
+lavtools/y4mhist
 lavtools/y4minterlace
 lavtools/y4mshift
 lavtools/y4mspatialfilter
