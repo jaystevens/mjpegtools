@@ -209,7 +209,7 @@ scripts/berechne -text
 scripts/codiere -text
 scripts/frameber -text
 scripts/lav2mpeg -text
-scripts/transcode -text
+scripts/mpegtranscode -text
 utils/Makefile.am -text
 utils/attributes.h -text
 utils/cpu_accel.c -text
