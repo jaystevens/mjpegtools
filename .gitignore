@@ -91,6 +91,9 @@ scripts/Makefile.in
 utils/.deps
 utils/Makefile
 utils/Makefile.in
+utils/altivec/.deps
+utils/altivec/Makefile
+utils/altivec/Makefile.in
 utils/lavaddwav
 utils/lavtrans
 yuvdenoise/*.m1v

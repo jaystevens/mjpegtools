@@ -217,9 +217,7 @@ scripts/frameber -text
 scripts/lav2mpeg -text
 scripts/mpegtranscode -text
 utils/Makefile.am -text
-utils/altivec/Makefile -text
 utils/altivec/Makefile.am -text
-utils/altivec/Makefile.in -text
 utils/altivec/README -text
 utils/altivec/add_pred.c -text
 utils/altivec/altivec_conf.h -text
