@@ -31,21 +31,9 @@ aenc/table_th.h -text
 aenc/tables.c -text
 aenc/tonal.c -text
 aenc/wav_io.c -text
-/audiolib.c -text
 /autogen.sh -text
-/avilib.c -text
-/avilib.h -text
 /configure.in -text
-/editlist.c -text
-/editlist.h -text
 /install-sh -text
-/jpegutils.c -text
-/lav2wav.c -text
-/lav2yuv.c -text
-/lav_io.c -text
-/lav_io.h -text
-/lavplay.c -text
-/lavrec.c -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
 lavtools/avilib.c -text
@@ -61,7 +49,6 @@ lavtools/lavplay.c -text
 lavtools/lavrec.c -text
 lavtools/lavvideo.c -text
 lavtools/v4l-conf.c -text
-/lavvideo.c -text
 /missing -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
@@ -148,4 +135,3 @@ scripts/linkmpeg -text
 utils/Makefile -text
 utils/lavaddwav.c -text
 utils/lavtrans.c -text
-/v4l-conf.c -text
