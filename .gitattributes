@@ -45,6 +45,7 @@ lavtools/avilib.h -text
 lavtools/editlist.c -text
 lavtools/editlist.h -text
 lavtools/jpegutils.c -text
+lavtools/jpegutils.h -text
 lavtools/lav2dfilter.c -text
 lavtools/lav2wav.c -text
 lavtools/lav2yuv.c -text
@@ -62,6 +63,10 @@ lavtools/xlav.c -text
 lavtools/xlav.fd -text
 lavtools/xlav.h -text
 lavtools/xlav_main.c -text
+lavtools/ypipe.c -text
+lavtools/yuv2lav.c -text
+lavtools/yuv4mpeg.c -text
+lavtools/yuv4mpeg.h -text
 /missing -text
 /mjpeg_howto.txt -text
 /mkinstalldirs -text
