@@ -227,6 +227,7 @@ yuvdenoise/README -text
 yuvdenoise/yuvdenoise.c -text
 yuvfilters/ChangeLog -text
 yuvfilters/Makefile.am -text
+yuvfilters/README.2-3pulldown -text
 yuvfilters/README.yuvkineco -text
 yuvfilters/TODO -text
 yuvfilters/addtask.c -text
