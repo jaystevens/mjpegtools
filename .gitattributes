@@ -48,6 +48,8 @@ lavtools/avilib.c -text
 lavtools/avilib.h -text
 lavtools/editlist.c -text
 lavtools/editlist.h -text
+lavtools/frequencies.c -text
+lavtools/frequencies.h -text
 lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
 lavtools/lav2dfilter.c -text
