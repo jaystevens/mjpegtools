@@ -207,8 +207,8 @@ mplex/main.cc -text
 mplex/mpastrm_in.cc -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/mplexconsts.hh -text
-mplex/multplex.cc -text
-mplex/outputstream.hh -text
+mplex/multiplexor.cc -text
+mplex/multiplexor.hh -text
 mplex/padstrm.cc -text
 mplex/padstrm.hh -text
 mplex/stillsstream.cc -text
