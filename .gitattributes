@@ -121,6 +121,7 @@ lavtools/subsample.c -text
 lavtools/subsample.h -text
 lavtools/testrec.c -text
 lavtools/transist.flt.c -text
+lavtools/y4mblack.c -text
 lavtools/y4mcolorbars.c -text
 lavtools/y4mshift.c -text
 lavtools/y4mtoppm.c -text
