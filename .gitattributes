@@ -248,7 +248,6 @@ scripts/aufnahme -text
 scripts/berechne -text
 scripts/codiere -text
 scripts/frameber -text
-scripts/img2mpg -text
 scripts/lav2avi.sh -text
 scripts/lav2mpeg -text
 scripts/makePLI.py -text
