@@ -163,7 +163,10 @@ mpeg2enc/mjpegcat.cc -text
 mpeg2enc/motionest.cc -text
 mpeg2enc/mpeg2enc.cc -text
 mpeg2enc/mpeg2enc.h -text
+mpeg2enc/mpeg2encoder.hh -text
 mpeg2enc/picture.hh -text
+mpeg2enc/picturereader.cc -text
+mpeg2enc/picturereader.hh -text
 mpeg2enc/predcomp_mmx.s -text
 mpeg2enc/predcomp_mmxe.s -text
 mpeg2enc/predict.cc -text
@@ -179,6 +182,7 @@ mpeg2enc/putseq.cc -text
 mpeg2enc/putvlc.cc -text
 mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.cc -text
+mpeg2enc/quantize.hh -text
 mpeg2enc/quantize_precomp.h -text
 mpeg2enc/quantize_ref.c -text
 mpeg2enc/quantize_ref.h -text
@@ -187,6 +191,7 @@ mpeg2enc/ratectl.cc -text
 mpeg2enc/ratectl.hh -text
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.cc -text
+mpeg2enc/seqencoder.hh -text
 mpeg2enc/simd.h -text
 mpeg2enc/stats.cc -text
 mpeg2enc/synchrolib.cc -text
