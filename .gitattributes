@@ -58,6 +58,7 @@ docs/mjpegtools.1 -text
 docs/mp2enc.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
+docs/pgmtoy4m.1 -text
 docs/png2yuv.1 -text
 docs/ppmtoy4m.1 -text
 docs/y4mcolorbars.1 -text
