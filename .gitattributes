@@ -43,6 +43,7 @@ docs/authors.sgml -text
 docs/divxdec.1 -text
 docs/jpeg2yuv.1 -text
 docs/lav2divx.1 -text
+docs/lav2mpeg.1 -text
 docs/lav2wav.1 -text
 docs/lav2yuv.1 -text
 docs/lavpipe.1 -text
