@@ -117,6 +117,7 @@ lavtools/matteblend.flt.c -text
 lavtools/multiblend.flt.c -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
+lavtools/png2yuv.c -text
 lavtools/ppmtoy4m.c -text
 lavtools/riffinfo.h -text
 lavtools/subsample.c -text
