@@ -171,6 +171,7 @@ mpeg2enc/predcomp_mmx.s -text
 mpeg2enc/predcomp_mmxe.s -text
 mpeg2enc/predict.cc -text
 mpeg2enc/predict_mmx.s -text
+mpeg2enc/predict_ref.c -text
 mpeg2enc/putbits.cc -text
 mpeg2enc/puthdr.cc -text
 mpeg2enc/putmpg.cc -text
