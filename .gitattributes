@@ -277,7 +277,6 @@ utils/altivec/find_best_one_pel.c -text
 utils/altivec/idct.c -text
 utils/altivec/iquant_intra.c -text
 utils/altivec/iquant_non_intra.c -text
-utils/altivec/iquant_non_intra_m1.c -text
 utils/altivec/motion.c -text
 utils/altivec/pred_comp.c -text
 utils/altivec/quant_non_intra.c -text
