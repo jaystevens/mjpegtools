@@ -110,8 +110,6 @@ mpeg2enc/attributes.h -text
 mpeg2enc/bdist1_mmx.s -text
 mpeg2enc/bdist2_mmx.s -text
 mpeg2enc/conform.c -text
-mpeg2enc/cpu_accel.c -text
-mpeg2enc/cpu_accel.h -text
 mpeg2enc/cpuid.s -text
 mpeg2enc/dist2_mmx.s -text
 mpeg2enc/fastintfns.h -text
@@ -190,6 +188,8 @@ scripts/frameber -text
 scripts/lav2mpeg -text
 scripts/transcode -text
 utils/Makefile.am -text
+utils/cpu_accel.c -text
+utils/cpu_accel.h -text
 utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
 utils/mjpeg_types.h -text
