@@ -209,7 +209,7 @@ mpeg2enc/picturereader.hh -text
 mpeg2enc/predcomp_mmx.s -text
 mpeg2enc/predcomp_mmxe.s -text
 mpeg2enc/predict.cc -text
-mpeg2enc/predict_mmx.s -text
+mpeg2enc/predict_mmx.c -text
 mpeg2enc/predict_ref.c -text
 mpeg2enc/predict_ref.h -text
 mpeg2enc/predict_x86.c -text
