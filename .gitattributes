@@ -166,6 +166,10 @@ mplex/systems.c -text
 mplex/vector.c -text
 mplex/vector.h -text
 scripts/Makefile.am -text
+scripts/aufnahme -text
+scripts/berechne -text
+scripts/codiere -text
+scripts/frameber -text
 scripts/lav2mpeg -text
 scripts/transcode -text
 utils/Makefile.am -text
