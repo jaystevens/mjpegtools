@@ -38,6 +38,7 @@ aenc/wav_io.c -text
 aenc/wav_io.h -text
 /autogen.sh -text
 /configure.in -text
+/cpuinfo.sh -text
 debian/Makefile.am -text
 debian/changelog -text
 debian/control.in -text
@@ -327,6 +328,7 @@ utils/altivec/verify.h -text
 utils/attributes.h -text
 utils/cpu_accel.c -text
 utils/cpu_accel.h -text
+utils/cpuinfo.c -text
 utils/fastintfns.h -text
 utils/format_codes.h -text
 utils/mjpeg_logging.c -text
