@@ -126,6 +126,7 @@ utils/altivec/.deps
 utils/altivec/.libs
 utils/altivec/Makefile
 utils/altivec/Makefile.in
+utils/mjpeg_simd_helper
 utils/mmxsse/*.la
 utils/mmxsse/*.lo
 utils/mmxsse/.deps
