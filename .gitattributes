@@ -60,7 +60,9 @@ lavtools/lav_io.c -text
 lavtools/lav_io.h -text
 lavtools/lavaddwav.c -text
 lavtools/lavpipe.c -text
+lavtools/lavplay.1 -text
 lavtools/lavplay.c -text
+lavtools/lavrec.1 -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
@@ -79,6 +81,7 @@ lavtools/yuv2lav.c -text
 lavtools/yuv4mpeg.c -text
 lavtools/yuv4mpeg.h -text
 lavtools/yuvmedianfilter.c -text
+lavtools/yuvplay.1 -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
