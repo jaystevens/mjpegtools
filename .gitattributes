@@ -204,7 +204,6 @@ utils/mjpeg_logging.h -text
 utils/mjpeg_types.h -text
 yuvdenoise/Makefile -text
 yuvdenoise/README -text
-yuvdenoise/test.m1v -text svneol=unset#unset
 yuvdenoise/yuvdenoise.c -text
 yuvscaler/COPYING -text
 yuvscaler/INSTALL -text
