@@ -63,6 +63,7 @@ mpeg2enc/INSTALL -text
 mpeg2enc/Makefile.am -text
 mpeg2enc/NOTES -text
 mpeg2enc/README -text
+mpeg2enc/attributes.h -text
 mpeg2enc/bdist1_mmx.s -text
 mpeg2enc/bdist2_mmx.s -text
 mpeg2enc/config.h -text svneol=unset#application/octet-stream
@@ -120,6 +121,7 @@ mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.c -text
 mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/simd.h -text
 mpeg2enc/stats.c -text
 mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/transfrm.c -text
