@@ -357,7 +357,6 @@ utils/mmxsse/mblock_sad_mmxe.c -text
 utils/mmxsse/mblock_sub44_sads_x86.c -text
 utils/mmxsse/mblock_sub44_sads_x86.h -text
 utils/mmxsse/mblock_sub44_sads_x86_h.c -text
-utils/mmxsse/mblock_sumsq_mmx.s -text
 utils/mmxsse/mmxsse_motion.h -text
 utils/mmxsse/motion.c -text
 utils/motionsearch.c -text
