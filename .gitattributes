@@ -105,6 +105,7 @@ lavtools/lavinfo.c -text
 lavtools/lavpipe.c -text
 lavtools/lavplay.c -text
 lavtools/lavrec.c -text
+lavtools/lavtc.bash -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
 lavtools/libavifile.h -text
