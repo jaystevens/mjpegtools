@@ -125,6 +125,7 @@ mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.c -text
 mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/simd.h -text
 mpeg2enc/stats.c -text
 mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/transfrm.c -text
