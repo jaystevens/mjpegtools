@@ -232,6 +232,7 @@ yuvfilters/TODO -text
 yuvfilters/addtask.c -text
 yuvfilters/alloctask.c -text
 yuvfilters/initframe.c -text
+yuvfilters/install_symlink.sh -text
 yuvfilters/main.c -text
 yuvfilters/putframe.c -text
 yuvfilters/yuvfilter.c -text
