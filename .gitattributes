@@ -164,8 +164,10 @@ mpeg2enc/macroblock.cc -text
 mpeg2enc/macroblock.hh -text
 mpeg2enc/mjpegcat.cc -text
 mpeg2enc/motionest.cc -text
+mpeg2enc/mpeg2coder.cc -text
 mpeg2enc/mpeg2coder.hh -text
 mpeg2enc/mpeg2enc.cc -text
+mpeg2enc/mpeg2encoder.cc -text
 mpeg2enc/mpeg2encoder.hh -text
 mpeg2enc/mpeg2encoptions.cc -text
 mpeg2enc/mpeg2encoptions.hh -text
