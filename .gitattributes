@@ -254,6 +254,7 @@ yuvdenoise/global.h -text
 yuvdenoise/main.c -text
 yuvdenoise/motion.c -text
 yuvdenoise/motion.h -text
+yuvdenoise/test.m1v -text
 yuvfilters/ChangeLog -text
 yuvfilters/Makefile.am -text
 yuvfilters/README.2-3pulldown -text
