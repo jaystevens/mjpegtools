@@ -13,7 +13,6 @@
 /README.avilib -text
 /REQUIRED_SOFTWARE -text
 /TODO -text
-/aclocal.m4 -text
 aenc/Makefile.am -text
 aenc/README -text
 aenc/common.c -text
