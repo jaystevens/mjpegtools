@@ -241,6 +241,9 @@ mplex/vector.hh -text
 mplex/videostrm.hh -text
 mplex/videostrm_in.cc -text
 mplex/videostrm_out.cc -text
+mplex/zalphastrm.hh -text
+mplex/zalphastrm_in.cc -text
+mplex/zalphastrm_out.cc -text
 scripts/Makefile.am -text
 scripts/aufnahme -text
 scripts/berechne -text
