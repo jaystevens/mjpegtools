@@ -12,6 +12,7 @@
 /README -text
 /README.DV -text
 /README.avilib -text
+/README.glav -text
 /README.lavpipe -text
 /README.libforms -text
 /README.transist -text
@@ -67,6 +68,9 @@ lavtools/editlist.c -text
 lavtools/editlist.h -text
 lavtools/frequencies.c -text
 lavtools/frequencies.h -text
+lavtools/glav.c -text
+lavtools/glav.h -text
+lavtools/glav_main.c -text
 lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
 lavtools/lav2divx.cpp -text
