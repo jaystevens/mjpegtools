@@ -182,7 +182,9 @@ mplex/main.hh -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/mpegconsts.hh -text
 mplex/multplex.cc -text
+mplex/outputstream.hh -text
 mplex/systems.cc -text
+mplex/systems.hh -text
 mplex/vector.cc -text
 mplex/vector.hh -text
 scripts/Makefile.am -text
