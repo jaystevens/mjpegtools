@@ -11,6 +11,10 @@ aenc/mp2enc
 /config.log
 /config.status
 /configure
+docs/.deps
+docs/.libs
+docs/Makefile
+docs/Makefile.in
 lavtools/.deps
 lavtools/Makefile
 lavtools/Makefile.in

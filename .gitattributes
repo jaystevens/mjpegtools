@@ -36,6 +36,7 @@ aenc/wav_io.c -text
 attic/motion.c -text
 /autogen.sh -text
 /configure.in -text
+docs/Makefile.am -text
 /install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
