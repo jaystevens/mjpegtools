@@ -237,6 +237,7 @@ mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/mplexconsts.hpp -text
 mplex/multiplexor.cpp -text
 mplex/multiplexor.hpp -text
+mplex/outputstrm.hpp -text
 mplex/padstrm.cpp -text
 mplex/padstrm.hpp -text
 mplex/stillsstream.cpp -text
