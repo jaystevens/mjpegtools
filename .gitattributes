@@ -131,17 +131,14 @@ mpeg2enc/conform.c -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
-mpeg2enc/fdctref.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/global.h -text
 mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/mjpegcat.c -text
 mpeg2enc/motion.c -text
-mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/motionest.c -text
 mpeg2enc/mpeg2enc.c -text
-mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
 mpeg2enc/predcomp_mmx.s -text
 mpeg2enc/predcomp_mmxe.s -text
@@ -149,24 +146,18 @@ mpeg2enc/predict.c -text
 mpeg2enc/predict_mmx.s -text
 mpeg2enc/putbits.c -text
 mpeg2enc/puthdr.c -text
-mpeg2enc/puthdr.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/putmpg.c -text
 mpeg2enc/putpic.c -text
 mpeg2enc/putseq.c -text
-mpeg2enc/putseq.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/putvlc.c -text
 mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.c -text
-mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/quantize_x86.c -text
 mpeg2enc/ratectl.c -text
-mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.c -text
-mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/simd.h -text
 mpeg2enc/stats.c -text
-mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/synchrolib.c -text
 mpeg2enc/synchrolib.h -text
 mpeg2enc/transfrm.c -text
