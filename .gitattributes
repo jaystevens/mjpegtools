@@ -251,6 +251,7 @@ yuvdenoise/deinterlace.h -text
 yuvdenoise/denoise.c -text
 yuvdenoise/denoise.h -text
 yuvdenoise/global.h -text
+yuvdenoise/gmon.out -text
 yuvdenoise/main.c -text
 yuvdenoise/motion.c -text
 yuvdenoise/motion.h -text
