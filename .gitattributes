@@ -112,6 +112,7 @@ lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
 lavtools/yuvscaler_bicubic.c -text
+lavtools/yuvscaler_implementation.txt -text
 lavtools/yuvscaler_resample.c -text
 /mjpeg_howto.txt -text
 /mjpegtools-config.in -text
