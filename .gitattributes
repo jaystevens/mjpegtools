@@ -38,6 +38,17 @@ aenc/wav_io.c -text
 aenc/wav_io.h -text
 /autogen.sh -text
 /configure.in -text
+debian/Makefile.am -text
+debian/changelog -text
+debian/control -text
+debian/copyright -text
+debian/libmjpegtools-dev.files -text
+debian/libmjpegtools0.files -text
+debian/mjpegtools.docs -text
+debian/mjpegtools.files -text
+debian/mjpegtools.info -text
+debian/mjpegtools.manpages -text
+debian/rules -text
 docs/FAQ.txt -text
 docs/Makefile.am -text
 docs/authors.sgml -text
