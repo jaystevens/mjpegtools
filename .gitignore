@@ -9,7 +9,6 @@ aenc/.libs
 aenc/Makefile
 aenc/Makefile.in
 aenc/mp2enc
-/autom4te-2.53.cache
 /autom4te.cache
 /compile
 /confdefs.h
@@ -91,7 +90,6 @@ lavtools/yuvscaler
 /missing
 /mjpegtools*.rpm
 /mjpegtools*.tar.gz
-/mjpegtools-config.h
 /mjpegtools.pc
 /mjpegtools.spec
 /mjpegtools_*.asc
