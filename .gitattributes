@@ -48,8 +48,6 @@ debian/mjpegtools.docs -text
 debian/mjpegtools.files -text
 debian/mjpegtools.info -text
 debian/mjpegtools.manpages -text
-debian/mjpegtools.postinst -text
-debian/mjpegtools.prerm -text
 debian/rules -text
 docs/FAQ.txt -text
 docs/Makefile.am -text

@@ -21,6 +21,7 @@ aenc/mp2enc
 /config.status
 /config.sub
 /configure
+debian/*.debhelper
 debian/*.substvars
 debian/*i686*
 debian/Makefile
