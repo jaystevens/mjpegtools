@@ -37,7 +37,6 @@ aenc/tables.c -text
 aenc/tonal.c -text
 aenc/wav_io.c -text
 aenc/wav_io.h -text
-attic/motion.c -text
 /autogen.sh -text
 /configure.in -text
 docs/Makefile.am -text
@@ -94,7 +93,6 @@ lavtools/oldyuv4mpeg.c -text
 lavtools/oldyuv4mpeg.h -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
-lavtools/test.el -text
 lavtools/testrec.c -text
 lavtools/transist.flt.c -text
 lavtools/ypipe.c -text
@@ -240,10 +238,3 @@ yuvfilters/yuvkineco.c -text
 yuvfilters/yuvstdin.c -text
 yuvfilters/yuvstdout.c -text
 yuvfilters/yuvycsnoise.c -text
-yuvscaler/COPYING -text
-yuvscaler/INSTALL -text
-yuvscaler/Makefile.am -text
-yuvscaler/README -text
-yuvscaler/TODO -text
-yuvscaler/yuvscaler.c -text
-yuvscaler/yuvscaler.h -text
