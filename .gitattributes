@@ -354,7 +354,7 @@ utils/mmxsse/find_best_one_pel.c -text
 utils/mmxsse/mblock_bsad_mmx.s -text
 utils/mmxsse/mblock_bsumsq_mmx.s -text
 utils/mmxsse/mblock_sad_mmx.s -text
-utils/mmxsse/mblock_sad_mmxe.s -text
+utils/mmxsse/mblock_sad_mmxe.c -text
 utils/mmxsse/mblock_sub44_sads_x86.c -text
 utils/mmxsse/mblock_sub44_sads_x86.h -text
 utils/mmxsse/mblock_sub44_sads_x86_h.c -text
