@@ -67,6 +67,8 @@ mpeg2enc/bdist1_mmx.s -text
 mpeg2enc/bdist2_mmx.s -text
 mpeg2enc/config.h -text svneol=unset#application/octet-stream
 mpeg2enc/conform.c -text
+mpeg2enc/cpu_accel.c -text
+mpeg2enc/cpu_accel.h -text
 mpeg2enc/cpuid.s -text
 mpeg2enc/dist1_00.s -text svneol=unset#application/octet-stream
 mpeg2enc/dist1_00_mmx.s -text
