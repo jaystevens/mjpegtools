@@ -176,6 +176,7 @@ mpeg2enc/transfrm.c -text
 mpeg2enc/vlc.h -text
 mpeg2enc/writepic.c -text
 mplex/COPYING -text
+mplex/Doxyfile -text
 mplex/INSTRUCT -text
 mplex/InElemStream.hh -text
 mplex/Makefile.am -text
