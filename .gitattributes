@@ -338,6 +338,7 @@ utils/fastintfns.h -text
 utils/format_codes.h -text
 utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
+utils/mjpeg_simd_helper.c -text
 utils/mjpeg_types.h -text
 utils/mmx.h -text
 utils/mmxsse/Makefile.am -text
