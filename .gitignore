@@ -45,11 +45,9 @@ lavtools/.deps
 lavtools/.libs
 lavtools/Makefile
 lavtools/Makefile.in
-lavtools/divxdec
 lavtools/glav
 lavtools/jpeg2yuv
 lavtools/lav2dfilter
-lavtools/lav2divx
 lavtools/lav2wav
 lavtools/lav2yuv
 lavtools/lavaddwav
@@ -68,12 +66,12 @@ lavtools/testrec
 lavtools/transist.flt
 lavtools/v4l-conf
 lavtools/xlav
-lavtools/y4mblack
 lavtools/y4mcolorbars
 lavtools/y4mshift
+lavtools/y4mspatialfilter
+lavtools/y4mstabilizer
 lavtools/y4mtoppm
 lavtools/ypipe
-lavtools/yuv2divx
 lavtools/yuv2lav
 lavtools/yuv4mpeg
 lavtools/yuvcorrect
