@@ -66,11 +66,14 @@ lavtools/testrec
 lavtools/transist.flt
 lavtools/v4l-conf
 lavtools/xlav
+lavtools/y4mblack
 lavtools/y4mcolorbars
+lavtools/y4minterlace
 lavtools/y4mshift
 lavtools/y4mspatialfilter
 lavtools/y4mstabilizer
 lavtools/y4mtoppm
+lavtools/y4mtoyuv
 lavtools/ypipe
 lavtools/yuv2lav
 lavtools/yuv4mpeg
