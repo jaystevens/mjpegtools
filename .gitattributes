@@ -150,6 +150,7 @@ mpeg2enc/NOTES -text
 mpeg2enc/README -text
 mpeg2enc/TODO -text
 mpeg2enc/conform.cc -text
+mpeg2enc/elemstrmwriter.hh -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
@@ -161,6 +162,7 @@ mpeg2enc/macroblock.cc -text
 mpeg2enc/macroblock.hh -text
 mpeg2enc/mjpegcat.cc -text
 mpeg2enc/motionest.cc -text
+mpeg2enc/mpeg2coder.hh -text
 mpeg2enc/mpeg2enc.cc -text
 mpeg2enc/mpeg2enc.h -text
 mpeg2enc/mpeg2encoder.hh -text
