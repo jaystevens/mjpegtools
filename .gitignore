@@ -131,6 +131,12 @@ utils/mmxsse/.deps
 utils/mmxsse/.libs
 utils/mmxsse/Makefile
 utils/mmxsse/Makefile.in
+y4mdenoise/*.la
+y4mdenoise/*.lo
+y4mdenoise/.deps
+y4mdenoise/.libs
+y4mdenoise/Makefile
+y4mdenoise/Makefile.in
 yuvdeinterlace/*.m1v
 yuvdeinterlace/*.nuv
 yuvdeinterlace/*.yuv
