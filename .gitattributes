@@ -275,6 +275,7 @@ mplex/zalphastrm.hpp -text
 mplex/zalphastrm_in.cpp -text
 mplex/zalphastrm_out.cpp -text
 scripts/Makefile.am -text
+scripts/anytovcd.sh -text
 scripts/aufnahme -text
 scripts/berechne -text
 scripts/codiere -text
