@@ -366,6 +366,8 @@ yuvdeinterlace/interleave.h -text
 yuvdeinterlace/main.c -text
 yuvdeinterlace/sinc_interpolation.c -text
 yuvdeinterlace/sinc_interpolation.h -text
+yuvdeinterlace/transform_block.c -text
+yuvdeinterlace/transform_block.h -text
 yuvdenoise/COPYING -text
 yuvdenoise/ChangeLog -text
 yuvdenoise/Makefile.am -text
