@@ -123,7 +123,6 @@ lavtools/lavrec.c -text
 lavtools/lavtc.bash -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
-lavtools/libavifile.h -text
 lavtools/liblavplay.c -text
 lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
@@ -136,7 +135,6 @@ lavtools/pipelist.h -text
 lavtools/png2yuv.c -text
 lavtools/pnmtoy4m.c -text
 lavtools/ppmtoy4m.c -text
-lavtools/riffinfo.h -text
 lavtools/subsample.c -text
 lavtools/subsample.h -text
 lavtools/testrec.c -text
