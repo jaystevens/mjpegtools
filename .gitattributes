@@ -41,9 +41,12 @@ attic/motion.c -text
 /configure.in -text
 docs/Makefile.am -text
 docs/authors.sgml -text
+docs/lav2wav.1 -text
+docs/lav2yuv.1 -text
 docs/lavplay.1 -text
 docs/lavrec.1 -text
 docs/lavtools.sgml -text
+docs/lavtrans.1 -text
 docs/mjpegtools.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
