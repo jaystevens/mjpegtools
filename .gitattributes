@@ -127,6 +127,7 @@ lavtools/y4mshift.c -text
 lavtools/y4mtoppm.c -text
 lavtools/ypipe.c -text
 lavtools/yuv2lav.c -text
+lavtools/yuv4mpeg.c -text
 lavtools/yuvcorrect.c -text
 lavtools/yuvcorrect.h -text
 lavtools/yuvcorrect_functions.c -text
