@@ -6,6 +6,7 @@
 /ChangeLog -text
 /HINTS -text
 /INSTALL -text
+/INSTALL.real -text
 /Makefile.am -text
 /NEWS -text
 /PLANS -text
