@@ -63,6 +63,7 @@ lavtools/xlav.fd -text
 lavtools/xlav.h -text
 lavtools/xlav_main.c -text
 /missing -text
+/mjpeg_howto.txt -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
