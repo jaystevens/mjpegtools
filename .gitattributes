@@ -141,6 +141,7 @@ lavtools/testrec.c -text
 lavtools/transist.flt.c -text
 lavtools/y4mblack.c -text
 lavtools/y4mcolorbars.c -text
+lavtools/y4mhist.c -text
 lavtools/y4minterlace.c -text
 lavtools/y4mshift.c -text
 lavtools/y4mspatialfilter.c -text
