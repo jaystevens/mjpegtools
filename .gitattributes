@@ -165,9 +165,14 @@ mplex/vector.h -text
 scripts/Makefile.am -text
 scripts/lav2mpeg -text
 scripts/transcode -text
+utils/Makefile.am -text
+utils/mjpeg_logging.c -text
+utils/mjpeg_logging.h -text
+utils/mjpeg_types.h -text
 yuvscaler/COPYING -text
 yuvscaler/INSTALL -text
 yuvscaler/Makefile -text
+yuvscaler/Makefile.am -text
 yuvscaler/README -text
 yuvscaler/TODO -text
 yuvscaler/yuvscaler.c -text
