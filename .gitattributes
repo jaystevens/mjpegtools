@@ -41,8 +41,13 @@ attic/motion.c -text
 /configure.in -text
 docs/Makefile.am -text
 docs/authors.sgml -text
+docs/lavplay.1 -text
+docs/lavrec.1 -text
 docs/lavtools.sgml -text
-docs/mjpeg.1.gz -text svneol=unset#unset
+docs/mjpegtools.1 -text
+docs/mpeg2enc.1 -text
+docs/mplex.1 -text
+docs/yuvplay.1 -text
 /install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
@@ -60,9 +65,7 @@ lavtools/lav_io.c -text
 lavtools/lav_io.h -text
 lavtools/lavaddwav.c -text
 lavtools/lavpipe.c -text
-lavtools/lavplay.1 -text
 lavtools/lavplay.c -text
-lavtools/lavrec.1 -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
@@ -81,13 +84,11 @@ lavtools/yuv2lav.c -text
 lavtools/yuv4mpeg.c -text
 lavtools/yuv4mpeg.h -text
 lavtools/yuvmedianfilter.c -text
-lavtools/yuvplay.1 -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
 /missing -text
 /mjpeg_howto.txt -text
-/mjpegtools.1 -text
 /mjpegtools.spec -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
@@ -122,7 +123,6 @@ mpeg2enc/mjpegcat.c -text
 mpeg2enc/mmx.h -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
-mpeg2enc/mpeg2enc.1 -text
 mpeg2enc/mpeg2enc.c -text
 mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
@@ -169,7 +169,6 @@ mplex/interact.c -text
 mplex/main.c -text
 mplex/main.h -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
-mplex/mplex.1 -text
 mplex/multplex.c -text
 mplex/systems.c -text
 mplex/vector.c -text
