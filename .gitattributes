@@ -78,6 +78,7 @@ docs/ppmtoy4m.1 -text
 docs/y4mcolorbars.1 -text
 docs/y4mdenoise.1 -text
 docs/y4mtoppm.1 -text
+docs/y4munsharp.1 -text
 docs/yuv2lav.1 -text
 docs/yuv4mpeg.5 -text
 docs/yuvdenoise.1 -text
@@ -384,6 +385,8 @@ y4mdenoise/main.c -text
 y4mdenoise/newdenoise.cc -text
 y4mdenoise/newdenoise.hh -text
 y4mdenoise/regiontest.cc -text
+y4munsharp/Makefile.am -text
+y4munsharp/y4munsharp.c -text
 yuvdeinterlace/Makefile.am -text
 yuvdeinterlace/blend_fields.c -text
 yuvdeinterlace/blend_fields.h -text
