@@ -34,8 +34,7 @@ aenc/tonal.c -text
 /lav_io.h -text
 /lavplay.c -text
 /lavrec.c -text
-/movtar.c -text
-/movtar.h -text
+/lavvideo.c -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile -text svneol=unset#application/octet-stream
