@@ -272,6 +272,7 @@ utils/altivec/bsumsq_sub22.c -text
 utils/altivec/build_sub22_mests.c -text
 utils/altivec/build_sub44_mests.c -text
 utils/altivec/detect.c -text
+utils/altivec/fdct.c -text
 utils/altivec/fdct_idct.c -text
 utils/altivec/find_best_one_pel.c -text
 utils/altivec/idct.c -text
