@@ -50,6 +50,7 @@ lavtools/lavplay.c -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
+lavtools/test.el -text
 lavtools/v4l-conf.c -text
 lavtools/xlav.c -text
 lavtools/xlav.fd -text
