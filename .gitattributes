@@ -250,6 +250,7 @@ scripts/codiere -text
 scripts/frameber -text
 scripts/img2mpg -text
 scripts/lav2mpeg -text
+scripts/makePLI.py -text
 scripts/mpegtranscode -text
 utils/Makefile.am -text
 utils/altivec/Makefile.am -text
