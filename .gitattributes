@@ -34,7 +34,6 @@ aenc/tonal.c -text
 /autogen.sh -text
 /avilib.c -text
 /avilib.h -text
-/configure -text
 /configure.in -text
 /editlist.c -text
 /editlist.h -text
@@ -131,8 +130,6 @@ mplex/README -text
 mplex/TODO -text
 mplex/bits.c -text
 mplex/bits.h -text
-mplex/bitstrm.c -text
-mplex/bitstrm.h -text
 mplex/buffer.c -text
 mplex/inits.c -text
 mplex/inptstrm.c -text
