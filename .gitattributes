@@ -119,6 +119,7 @@ mpeg2enc/mjpegcat.c -text
 mpeg2enc/mmx.h -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/mpeg2enc.1 -text
 mpeg2enc/mpeg2enc.c -text
 mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
@@ -165,6 +166,7 @@ mplex/interact.c -text
 mplex/main.c -text
 mplex/main.h -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
+mplex/mplex.1 -text
 mplex/multplex.c -text
 mplex/systems.c -text
 mplex/vector.c -text
