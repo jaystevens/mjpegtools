@@ -169,13 +169,11 @@ mplex/aunit.hh -text
 mplex/bits.cc -text
 mplex/bits.hh -text
 mplex/buffer.cc -text
-mplex/inits.cc -text
 mplex/inptstrm.cc -text
 mplex/inputstrm.cc -text
 mplex/inputstrm.hh -text
 mplex/interact.cc -text
 mplex/main.cc -text
-mplex/main.hh -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/mpegconsts.hh -text
 mplex/multplex.cc -text
