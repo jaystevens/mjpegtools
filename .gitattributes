@@ -213,6 +213,8 @@ mplex/padstrm.cc -text
 mplex/padstrm.hh -text
 mplex/stillsstream.cc -text
 mplex/stillsstream.hh -text
+mplex/stream_params.cc -text
+mplex/stream_params.hh -text
 mplex/systems.cc -text
 mplex/systems.hh -text
 mplex/vector.cc -text
