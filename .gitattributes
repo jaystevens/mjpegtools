@@ -53,7 +53,6 @@ docs/mjpegtools.1 -text
 docs/mp2enc.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
-docs/xlav.1 -text
 docs/yuv2lav.1 -text
 docs/yuvplay.1 -text
 docs/yuvscaler.1 -text
