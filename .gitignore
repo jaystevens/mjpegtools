@@ -26,6 +26,7 @@ lavtools/Makefile
 lavtools/Makefile.in
 lavtools/audiolib.lo
 lavtools/avilib.lo
+lavtools/divxdec
 lavtools/editlist.lo
 lavtools/frequencies.lo
 lavtools/glav
