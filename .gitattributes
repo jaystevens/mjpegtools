@@ -403,6 +403,8 @@ yuvdeinterlace/sinc_interpolation.h -text
 yuvdeinterlace/transform_block.c -text
 yuvdeinterlace/transform_block.h -text
 yuvdeinterlace/vector.h -text
+yuvdenoise/Makefile.am -text
+yuvdenoise/main.c -text
 yuvfilters/ChangeLog -text
 yuvfilters/Makefile.am -text
 yuvfilters/README.2-3pulldown -text
