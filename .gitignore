@@ -138,6 +138,7 @@ y4mdenoise/.deps
 y4mdenoise/.libs
 y4mdenoise/Makefile
 y4mdenoise/Makefile.in
+y4mdenoise/y4mdenoise
 yuvdeinterlace/*.m1v
 yuvdeinterlace/*.nuv
 yuvdeinterlace/*.yuv
