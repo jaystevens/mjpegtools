@@ -47,3 +47,16 @@ scripts/Makefile.in
 /stamp-h.in
 utils/lavaddwav
 utils/lavtrans
+yuvdenoise/*.m1v
+yuvdenoise/*.nuv
+yuvdenoise/*.yuv
+yuvdenoise/.deps
+yuvdenoise/Makefile
+yuvdenoise/Makefile.in
+yuvdenoise/aclocal.m4
+yuvdenoise/config.*
+yuvdenoise/configure
+yuvdenoise/configure.in
+yuvdenoise/gmon.out
+yuvdenoise/yuvdenoise
+yuvdenoise/yuvdenoise.o
