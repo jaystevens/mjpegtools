@@ -42,6 +42,7 @@ attic/motion.c -text
 docs/Makefile.am -text
 docs/authors.sgml -text
 docs/lavtools.sgml -text
+docs/mjpeg.1.gz -text svneol=unset#unset
 /install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
