@@ -29,6 +29,7 @@ lavtools/avilib.lo
 lavtools/editlist.lo
 lavtools/frequencies.lo
 lavtools/glav
+lavtools/jpeg2yuv
 lavtools/jpegutils.lo
 lavtools/lav2dfilter
 lavtools/lav2divx
