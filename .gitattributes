@@ -215,7 +215,7 @@ mpeg2enc/predict_ref.h -text
 mpeg2enc/predict_x86.c -text
 mpeg2enc/putpic.cc -text
 mpeg2enc/putseq.cc -text
-mpeg2enc/quant_mmx.s -text
+mpeg2enc/quant_mmx.c -text
 mpeg2enc/quantize.cc -text
 mpeg2enc/quantize.hh -text
 mpeg2enc/quantize_precomp.h -text
