@@ -56,10 +56,13 @@ lavtools/lav2yuv.c -text
 lavtools/lav_io.c -text
 lavtools/lav_io.h -text
 lavtools/lavaddwav.c -text
+lavtools/lavpipe.c -text
 lavtools/lavplay.c -text
 lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
+lavtools/pipelist.c -text
+lavtools/pipelist.h -text
 lavtools/test.el -text
 lavtools/testrec.c -text
 lavtools/transist.flt.c -text
