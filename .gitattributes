@@ -186,8 +186,7 @@ mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
 mpeg2enc/idct.c -text
-mpeg2enc/idct_mmx.s -text
-mpeg2enc/idctdata.c -text
+mpeg2enc/idct_mmx.c -text
 mpeg2enc/macroblock.cc -text
 mpeg2enc/macroblock.hh -text
 mpeg2enc/mjpegcat.cc -text
