@@ -16,7 +16,7 @@
 /REQUIRED_SOFTWARE -text
 /TODO -text
 /aclocal.m4 -text
-aenc/Makefile -text
+aenc/Makefile.am -text
 aenc/README -text
 aenc/common.c -text
 aenc/common.h -text
@@ -50,7 +50,7 @@ aenc/tonal.c -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
-mpeg2enc/Makefile -text svneol=unset#application/octet-stream
+mpeg2enc/Makefile.am -text
 mpeg2enc/NOTES -text
 mpeg2enc/README -text
 mpeg2enc/bdist1_mmx.o -text svneol=unset#unset
