@@ -43,6 +43,7 @@ docs/FAQ.txt -text
 docs/Makefile.am -text
 docs/authors.sgml -text
 docs/divxdec.1 -text
+docs/img2mpg.1 -text
 docs/install-info.sh -text
 docs/jpeg2yuv.1 -text
 docs/lav2divx.1 -text
