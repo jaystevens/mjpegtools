@@ -43,11 +43,17 @@ mpeg2enc/config.h -text svneol=unset#application/octet-stream
 mpeg2enc/conform.c -text
 mpeg2enc/dist1_00.o -text
 mpeg2enc/dist1_00.s -text svneol=unset#application/octet-stream
+mpeg2enc/dist1_00_mmx.o -text
+mpeg2enc/dist1_00_mmx.s -text
 mpeg2enc/dist1_01.s -text
+mpeg2enc/dist1_01_mmx.o -text
+mpeg2enc/dist1_01_mmx.s -text
 mpeg2enc/dist1_10.s -text
+mpeg2enc/dist1_10_mmx.o -text
+mpeg2enc/dist1_10_mmx.s -text
 mpeg2enc/dist1_11.s -text
-mpeg2enc/dist1_mmx.o -text
-mpeg2enc/dist1_mmx.s -text svneol=unset#application/octet-stream
+mpeg2enc/dist1_11_mmx.o -text
+mpeg2enc/dist1_11_mmx.s -text
 mpeg2enc/fdctref.c -text
 mpeg2enc/fdctref.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/fdist1_00.o -text
