@@ -89,7 +89,7 @@ lavtools/yuvscaler
 /missing
 /mjpegtools*.rpm
 /mjpegtools*.tar.gz
-/mjpegtools-config
+/mjpegtools-config.h
 /mjpegtools.pc
 /mjpegtools.spec
 /mjpegtools_*.asc
