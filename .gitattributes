@@ -225,6 +225,7 @@ utils/mblock_bsumsq_mmx.s -text
 utils/mblock_sad_mmx.s -text
 utils/mblock_sad_mmxe.s -text
 utils/mblock_sub44_sads_x86.c -text
+utils/mblock_sub44_sads_x86.h -text
 utils/mblock_sub44_sads_x86_h.c -text
 utils/mblock_sumsq_mmx.s -text
 utils/mjpeg_logging.c -text
