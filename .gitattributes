@@ -51,6 +51,10 @@ lavtools/lavrec.c -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
 lavtools/v4l-conf.c -text
+lavtools/xlav.c -text
+lavtools/xlav.fd -text
+lavtools/xlav.h -text
+lavtools/xlav_main.c -text
 /missing -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
