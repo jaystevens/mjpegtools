@@ -12,6 +12,7 @@
 /README -text
 /README.avilib -text
 /README.libforms -text
+/README.transist -text
 /TODO -text
 /acconfig.h -text
 /aclocal.m4 -text
