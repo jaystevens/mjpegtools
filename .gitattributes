@@ -175,6 +175,7 @@ mplex/buffer.cc -text
 mplex/inits.cc -text
 mplex/inptstrm.cc -text
 mplex/inputstrm.cc -text
+mplex/inputstrm.hh -text
 mplex/interact.cc -text
 mplex/main.cc -text
 mplex/main.hh -text
