@@ -60,6 +60,8 @@ lavtools/audiolib.c -text
 lavtools/audiolib.h -text
 lavtools/avilib.c -text
 lavtools/avilib.h -text
+lavtools/colorspace.c -text
+lavtools/colorspace.h -text
 lavtools/editlist.c -text
 lavtools/editlist.h -text
 lavtools/frequencies.c -text
@@ -92,8 +94,12 @@ lavtools/oldyuv4mpeg.c -text
 lavtools/oldyuv4mpeg.h -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
+lavtools/ppmtoy4m.c -text
+lavtools/subsample.c -text
+lavtools/subsample.h -text
 lavtools/testrec.c -text
 lavtools/transist.flt.c -text
+lavtools/y4mcolorbars.c -text
 lavtools/ypipe.c -text
 lavtools/yuv2divx.cpp -text
 lavtools/yuv2lav.c -text

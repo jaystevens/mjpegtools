@@ -49,10 +49,12 @@ lavtools/liblavplay.lo
 lavtools/liblavrec.la
 lavtools/liblavrec.lo
 lavtools/matteblend.flt
+lavtools/ppmtoy4m
 lavtools/testrec
 lavtools/transist.flt
 lavtools/v4l-conf
 lavtools/xlav
+lavtools/y4mcolorbars
 lavtools/ypipe
 lavtools/yuv2divx
 lavtools/yuv2lav
