@@ -39,6 +39,10 @@ mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile -text svneol=unset#application/octet-stream
 mpeg2enc/README -text
+mpeg2enc/bdist1_mmx.o -text svneol=unset#unset
+mpeg2enc/bdist1_mmx.s -text
+mpeg2enc/bdist2_mmx.o -text svneol=unset#unset
+mpeg2enc/bdist2_mmx.s -text
 mpeg2enc/config.h -text svneol=unset#application/octet-stream
 mpeg2enc/conform.c -text
 mpeg2enc/dist1_00.o -text
@@ -54,6 +58,8 @@ mpeg2enc/dist1_10_mmx.s -text
 mpeg2enc/dist1_11.s -text
 mpeg2enc/dist1_11_mmx.o -text
 mpeg2enc/dist1_11_mmx.s -text
+mpeg2enc/dist2_mmx.o -text svneol=unset#unset
+mpeg2enc/dist2_mmx.s -text
 mpeg2enc/fdct_mmx.o -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
@@ -75,6 +81,8 @@ mpeg2enc/mpeg2enc.c -text
 mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
 mpeg2enc/predict.c -text
+mpeg2enc/predict_mmx.o -text svneol=unset#unset
+mpeg2enc/predict_mmx.s -text
 mpeg2enc/putbits.c -text
 mpeg2enc/puthdr.c -text
 mpeg2enc/puthdr.c-orig -text svneol=unset#application/octet-stream
@@ -87,6 +95,8 @@ mpeg2enc/qdist1_mmx.o -text
 mpeg2enc/qdist1_mmx.s -text
 mpeg2enc/qdist1_sse.o -text
 mpeg2enc/qdist1_sse.s -text
+mpeg2enc/quant_mmx.o -text svneol=unset#unset
+mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.c -text
 mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/ratectl.c -text
