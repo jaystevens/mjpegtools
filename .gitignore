@@ -26,6 +26,7 @@ debian/*i686*
 debian/Makefile
 debian/Makefile.in
 debian/build-*
+debian/control
 debian/files
 debian/inst-*
 debian/libmjpegtools-[0-9]*
