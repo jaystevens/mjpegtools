@@ -17,7 +17,6 @@
 /README.lavpipe -text
 /README.transist -text
 /TODO -text
-/acconfig.h -text
 aenc/Makefile.am -text
 aenc/README -text
 aenc/common.c -text
