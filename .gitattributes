@@ -50,6 +50,7 @@ docs/lavtrans.1 -text
 docs/mjpegtools.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
+docs/xlav.1 -text
 docs/yuvplay.1 -text
 /install-sh -text
 lavtools/Makefile.am -text
