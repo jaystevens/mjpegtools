@@ -143,8 +143,8 @@ yuvdeinterlace/config.*
 yuvdeinterlace/configure
 yuvdeinterlace/configure.in
 yuvdeinterlace/gmon.out
-yuvdeinterlace/yuvdenoise
-yuvdeinterlace/yuvdenoise.o
+yuvdeinterlace/yuvdeinterlace
+yuvdeinterlace/yuvdeinterlace.o
 yuvdenoise/*.m1v
 yuvdenoise/*.nuv
 yuvdenoise/*.yuv
