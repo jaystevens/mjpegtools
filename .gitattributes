@@ -246,7 +246,6 @@ yuvdenoise/COPYING -text
 yuvdenoise/ChangeLog -text
 yuvdenoise/Makefile.am -text
 yuvdenoise/README -text
-yuvdenoise/yuvdenoise.c -text
 yuvfilters/ChangeLog -text
 yuvfilters/Makefile.am -text
 yuvfilters/README.2-3pulldown -text
