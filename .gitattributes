@@ -72,6 +72,8 @@ lavtools/jpegutils.h -text
 lavtools/lav2divx.cpp -text
 lavtools/lav2wav.c -text
 lavtools/lav2yuv.c -text
+lavtools/lav_common.c -text
+lavtools/lav_common.h -text
 lavtools/lav_io.c -text
 lavtools/lav_io.h -text
 lavtools/lavaddwav.c -text
