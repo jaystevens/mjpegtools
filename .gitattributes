@@ -126,7 +126,6 @@ mplex/main.h -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/multplex.c -text
 mplex/systems.c -text
-mplex/timecode.c -text
 mplex/vector.c -text
 mplex/vector.h -text
 scripts/lav2mpeg -text
