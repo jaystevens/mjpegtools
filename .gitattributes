@@ -181,6 +181,7 @@ mpeg2enc/putseq.cc -text
 mpeg2enc/putvlc.cc -text
 mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.cc -text
+mpeg2enc/quantize_precomp.h -text
 mpeg2enc/quantize_ref.c -text
 mpeg2enc/quantize_ref.h -text
 mpeg2enc/quantize_x86.c -text
@@ -192,6 +193,7 @@ mpeg2enc/simd.h -text
 mpeg2enc/stats.cc -text
 mpeg2enc/synchrolib.cc -text
 mpeg2enc/synchrolib.h -text
+mpeg2enc/syntaxconsts.h -text
 mpeg2enc/syntaxparams.h -text
 mpeg2enc/tables.h -text
 mpeg2enc/transfrm.cc -text
