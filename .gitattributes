@@ -110,7 +110,7 @@ mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/mblock_sad_mmx.s -text
 mpeg2enc/mblock_sad_mmxe.s -text
-mpeg2enc/mblock_sub44_sads.c -text
+mpeg2enc/mblock_sub44_sads_x86.c -text
 mpeg2enc/mblock_sub44_sads_x86_h.c -text
 mpeg2enc/mblockq_sad_mmxe.s -text
 mpeg2enc/mjpegcat.c -text
