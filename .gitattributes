@@ -94,10 +94,6 @@ lavtools/pipelist.h -text
 lavtools/test.el -text
 lavtools/testrec.c -text
 lavtools/transist.flt.c -text
-lavtools/xlav.c -text
-lavtools/xlav.fd -text
-lavtools/xlav.h -text
-lavtools/xlav_main.c -text
 lavtools/ypipe.c -text
 lavtools/yuv2divx.cpp -text
 lavtools/yuv2lav.c -text
