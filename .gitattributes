@@ -213,7 +213,6 @@ mpeg2enc/predict_ref.c -text
 mpeg2enc/predict_ref.h -text
 mpeg2enc/predict_x86.c -text
 mpeg2enc/putpic.cc -text
-mpeg2enc/putseq.cc -text
 mpeg2enc/quant_mmx.c -text
 mpeg2enc/quantize.cc -text
 mpeg2enc/quantize.hh -text
@@ -223,9 +222,12 @@ mpeg2enc/quantize_ref.h -text
 mpeg2enc/quantize_x86.c -text
 mpeg2enc/ratectl.cc -text
 mpeg2enc/ratectl.hh -text
+mpeg2enc/seqencoder.cc -text
 mpeg2enc/seqencoder.hh -text
 mpeg2enc/simd.h -text
 mpeg2enc/stats.cc -text
+mpeg2enc/streamstate.cc -text
+mpeg2enc/streamstate.h -text
 mpeg2enc/synchrolib.cc -text
 mpeg2enc/synchrolib.h -text
 mpeg2enc/syntaxconsts.h -text
