@@ -31,8 +31,11 @@ lavtools/v4l-conf
 lavtools/xlav
 mpeg2enc/Makefile
 mpeg2enc/Makefile.in
+mplex/.deps
+mplex/.libs
 mplex/Makefile
 mplex/Makefile.in
+mplex/mplex
 scripts/Makefile
 scripts/Makefile.in
 /stamp-h
