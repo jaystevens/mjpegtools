@@ -193,6 +193,7 @@ mplex/inputstrm.cc -text
 mplex/inputstrm.hh -text
 mplex/interact.cc -text
 mplex/interact.hh -text
+mplex/lpcmstrm_in.cc -text
 mplex/main.cc -text
 mplex/mpastrm_in.cc -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
