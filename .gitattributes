@@ -1,9 +1,12 @@
 * text=auto !eol
+/BUGS -text
 /CHANGES -text
 /COPYING -text
+/HINTS -text
 /Makefile -text
 /README -text
 /README.avilib -text
+/TODO -text
 aenc/Makefile -text
 aenc/README -text
 aenc/common.c -text
