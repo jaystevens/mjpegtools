@@ -83,6 +83,10 @@ mpeg2enc/putpic.c -text
 mpeg2enc/putseq.c -text
 mpeg2enc/putseq.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/putvlc.c -text
+mpeg2enc/qdist1_mmx.o -text
+mpeg2enc/qdist1_mmx.s -text
+mpeg2enc/qdist1_sse.o -text
+mpeg2enc/qdist1_sse.s -text
 mpeg2enc/quantize.c -text
 mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/ratectl.c -text
