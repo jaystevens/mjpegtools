@@ -63,6 +63,7 @@ lavtools/avilib.c -text
 lavtools/avilib.h -text
 lavtools/colorspace.c -text
 lavtools/colorspace.h -text
+lavtools/divxdec.cpp -text
 lavtools/editlist.c -text
 lavtools/editlist.h -text
 lavtools/frequencies.c -text
@@ -75,6 +76,7 @@ lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
 lavtools/lav2divx.cpp -text
 lavtools/lav2wav.c -text
+lavtools/lav2wav.h -text
 lavtools/lav2yuv.c -text
 lavtools/lav_common.c -text
 lavtools/lav_common.h -text
