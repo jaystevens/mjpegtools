@@ -139,6 +139,13 @@ y4mdenoise/.libs
 y4mdenoise/Makefile
 y4mdenoise/Makefile.in
 y4mdenoise/y4mdenoise
+y4munsharp/*.la
+y4munsharp/*.lo
+y4munsharp/.deps
+y4munsharp/.libs
+y4munsharp/Makefile
+y4munsharp/Makefile.in
+y4munsharp/y4munsharp
 yuvdeinterlace/*.m1v
 yuvdeinterlace/*.nuv
 yuvdeinterlace/*.yuv
