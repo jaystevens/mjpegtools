@@ -96,7 +96,12 @@ yuvdenoise/configure.in
 yuvdenoise/gmon.out
 yuvdenoise/yuvdenoise
 yuvdenoise/yuvdenoise.o
+yuvfilters/*.la
+yuvfilters/*.lo
+yuvfilters/.deps
+yuvfilters/.libs
 yuvfilters/Makefile
 yuvfilters/Makefile.in
+yuvfilters/yuvfilter
 yuvfilters/yuvkineco
 yuvfilters/yuvycsnoise
