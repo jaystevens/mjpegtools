@@ -4,8 +4,10 @@
 /COPYING -text
 /HINTS -text
 /Makefile -text
+/PLANS -text
 /README -text
 /README.avilib -text
+/REQUIRED_SOFTWARE -text
 /TODO -text
 aenc/Makefile -text
 aenc/README -text
@@ -34,7 +36,6 @@ aenc/tonal.c -text
 /lavrec.c -text
 /movtar.c -text
 /movtar.h -text
-/movtar_play.c -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile -text svneol=unset#application/octet-stream
@@ -100,3 +101,4 @@ scripts/linkmpeg -text
 utils/Makefile -text
 utils/lavaddwav.c -text
 utils/lavtrans.c -text
+/v4l-conf.c -text
