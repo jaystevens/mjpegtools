@@ -161,3 +161,10 @@ mplex/vector.h -text
 scripts/Makefile.am -text
 scripts/lav2mpeg -text
 scripts/transcode -text
+yuvscaler/COPYING -text
+yuvscaler/INSTALL -text
+yuvscaler/Makefile -text
+yuvscaler/README -text
+yuvscaler/TODO -text
+yuvscaler/yuvscaler.c -text
+yuvscaler/yuvscaler.h -text
