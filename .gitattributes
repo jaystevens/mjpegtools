@@ -1,14 +1,21 @@
 * text=auto !eol
+/AUTHORS -text
 /BUGS -text
 /CHANGES -text
 /COPYING -text
+/ChangeLog -text
 /HINTS -text
+/INSTALL -text
 /Makefile -text
+/Makefile.am -text
+/Makefile.in -text
+/NEWS -text
 /PLANS -text
 /README -text
 /README.avilib -text
 /REQUIRED_SOFTWARE -text
 /TODO -text
+/aclocal.m4 -text
 aenc/Makefile -text
 aenc/README -text
 aenc/common.c -text
@@ -26,15 +33,21 @@ aenc/table_th.h -text
 aenc/tables.c -text
 aenc/tonal.c -text
 /audiolib.c -text
+/autogen.sh -text
 /avilib.c -text
 /avilib.h -text
+/configure -text
+/configure.in -text
 /editlist.c -text
 /editlist.h -text
+/install-sh -text
 /lav_io.c -text
 /lav_io.h -text
 /lavplay.c -text
 /lavrec.c -text
 /lavvideo.c -text
+/missing -text
+/mkinstalldirs -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile -text svneol=unset#application/octet-stream
