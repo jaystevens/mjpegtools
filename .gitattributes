@@ -20,6 +20,7 @@ aenc/common.c -text
 aenc/common.h -text
 aenc/encode.c -text
 aenc/encoder.h -text
+aenc/fft.c -text
 aenc/musicin.c -text
 aenc/psy.c -text
 aenc/subs.c -text
