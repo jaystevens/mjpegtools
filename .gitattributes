@@ -55,9 +55,11 @@ docs/mpeg2enc.1 -text
 docs/mplex.1 -text
 docs/ppmtoy4m.1 -text
 docs/yuv2lav.1 -text
+docs/yuvkineco.1 -text
 docs/yuvmedianfilter.1 -text
 docs/yuvplay.1 -text
 docs/yuvscaler.1 -text
+docs/yuvycsnoise.1 -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
 lavtools/audiolib.h -text
