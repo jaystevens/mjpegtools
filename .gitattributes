@@ -175,7 +175,7 @@ mplex/interact.cc -text
 mplex/interact.hh -text
 mplex/main.cc -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
-mplex/mpegconsts.hh -text
+mplex/mplexconsts.hh -text
 mplex/multplex.cc -text
 mplex/outputstream.hh -text
 mplex/stillsstream.cc -text
