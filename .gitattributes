@@ -55,7 +55,6 @@ docs/mplex.1 -text
 docs/yuv2lav.1 -text
 docs/yuvplay.1 -text
 docs/yuvscaler.1 -text
-/install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
 lavtools/audiolib.h -text
@@ -102,11 +101,9 @@ lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
-/missing -text
 /mjpeg_howto.txt -text
 /mjpegtools-config.in -text
 /mjpegtools.spec -text
-/mkinstalldirs -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile.am -text
