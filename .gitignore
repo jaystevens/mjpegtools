@@ -8,10 +8,12 @@ aenc/Makefile.in
 aenc/mp2enc
 /confdefs.h
 /config.cache
+/config.guess
 /config.h
 /config.h.in
 /config.log
 /config.status
+/config.sub
 /configure
 docs/.deps
 docs/.libs
@@ -31,6 +33,7 @@ lavtools/lavvideo
 lavtools/testrec
 lavtools/v4l-conf
 lavtools/xlav
+/ltmain.sh
 mpeg2enc/.deps
 mpeg2enc/Makefile
 mpeg2enc/Makefile.in
@@ -45,6 +48,7 @@ scripts/Makefile
 scripts/Makefile.in
 /stamp-h
 /stamp-h.in
+utils/Makefile.in
 utils/lavaddwav
 utils/lavtrans
 yuvdenoise/*.m1v
