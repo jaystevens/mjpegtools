@@ -90,6 +90,8 @@ lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
 lavtools/liblavrec.h -text
 lavtools/matteblend.flt.c -text
+lavtools/oldyuv4mpeg.c -text
+lavtools/oldyuv4mpeg.h -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/test.el -text
@@ -98,8 +100,6 @@ lavtools/transist.flt.c -text
 lavtools/ypipe.c -text
 lavtools/yuv2divx.cpp -text
 lavtools/yuv2lav.c -text
-lavtools/yuv4mpeg.c -text
-lavtools/yuv4mpeg.h -text
 lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
@@ -210,6 +210,10 @@ utils/mjpeg_types.h -text
 utils/mmx.h -text
 utils/motionsearch.c -text
 utils/motionsearch.h -text
+utils/mpegconsts.c -text
+utils/mpegconsts.h -text
+utils/yuv4mpeg.c -text
+utils/yuv4mpeg.h -text
 yuvdenoise/COPYING -text
 yuvdenoise/ChangeLog -text
 yuvdenoise/Makefile.am -text
