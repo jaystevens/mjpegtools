@@ -4,6 +4,7 @@
 aenc/.deps
 aenc/Makefile
 aenc/Makefile.in
+aenc/mp2enc
 /config.cache
 /config.h
 /config.h.in
