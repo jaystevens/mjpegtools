@@ -175,11 +175,13 @@ mpeg2enc/Makefile.am -text
 mpeg2enc/NOTES -text
 mpeg2enc/README -text
 mpeg2enc/TODO -text
+mpeg2enc/channel.hh -text
 mpeg2enc/conform.cc -text
 mpeg2enc/elemstrmwriter.cc -text
 mpeg2enc/elemstrmwriter.hh -text
 mpeg2enc/encoderparams.cc -text
 mpeg2enc/encoderparams.hh -text
+mpeg2enc/encodertypes.h -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
@@ -199,6 +201,7 @@ mpeg2enc/mpeg2encoptions.cc -text
 mpeg2enc/mpeg2encoptions.hh -text
 mpeg2enc/mpeg2encparams.h -text
 mpeg2enc/mpeg2syntaxcodes.h -text
+mpeg2enc/pass1ratectl.cc -text
 mpeg2enc/picture.cc -text
 mpeg2enc/picture.hh -text
 mpeg2enc/picturereader.cc -text
