@@ -72,27 +72,22 @@ mpeg2enc/conform.c -text
 mpeg2enc/cpu_accel.c -text
 mpeg2enc/cpu_accel.h -text
 mpeg2enc/cpuid.s -text
-mpeg2enc/dist1_00.s -text svneol=unset#application/octet-stream
-mpeg2enc/dist1_00_mmx.s -text
-mpeg2enc/dist1_01.s -text
-mpeg2enc/dist1_01_mmx.s -text
-mpeg2enc/dist1_10.s -text
-mpeg2enc/dist1_10_mmx.s -text
-mpeg2enc/dist1_11.s -text
-mpeg2enc/dist1_11_mmx.s -text
 mpeg2enc/dist2_mmx.s -text
 mpeg2enc/fastintfns.h -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
 mpeg2enc/fdctref.c-orig -text svneol=unset#application/octet-stream
-mpeg2enc/fdist1_00.s -text svneol=unset#application/octet-stream
-mpeg2enc/fdist1_mmx.s -text svneol=unset#application/octet-stream
 mpeg2enc/global.h -text
 mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
+mpeg2enc/mblock_sad_mmx.s -text
+mpeg2enc/mblock_sad_mmxe.s -text
+mpeg2enc/mblock_sub44_sads.c -text
+mpeg2enc/mblock_sub44_sads_x86_h.c -text
+mpeg2enc/mblockq_sad_mmxe.s -text
 mpeg2enc/mjpegcat.c -text
 mpeg2enc/mmx.h -text
 mpeg2enc/motion.c -text
@@ -112,10 +107,6 @@ mpeg2enc/putpic.c -text
 mpeg2enc/putseq.c -text
 mpeg2enc/putseq.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/putvlc.c -text
-mpeg2enc/qblock_sad_x86.c -text
-mpeg2enc/qblock_sad_x86_h.c -text
-mpeg2enc/qdist1_mmx.s -text
-mpeg2enc/qdist1_sse.s -text
 mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.c -text
 mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
