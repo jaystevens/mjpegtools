@@ -38,6 +38,7 @@ lavtools/lav2wav
 lavtools/lav2yuv
 lavtools/lav_io.lo
 lavtools/lavaddwav
+lavtools/lavinfo
 lavtools/lavpipe
 lavtools/lavplay
 lavtools/lavrec
