@@ -208,6 +208,7 @@ utils/format_codes.h -text
 utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
 utils/mjpeg_types.h -text
+yuvdenoise/COPYING -text
 yuvdenoise/Makefile -text
 yuvdenoise/README -text
 yuvdenoise/yuvdenoise.c -text
