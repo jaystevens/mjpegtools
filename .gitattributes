@@ -42,7 +42,6 @@ docs/FAQ.txt -text
 docs/Makefile.am -text
 docs/authors.sgml -text
 docs/img2mpg.1 -text
-docs/install-info.sh -text
 docs/jpeg2yuv.1 -text
 docs/lav2mpeg.1 -text
 docs/lav2wav.1 -text
@@ -62,7 +61,6 @@ docs/mpeg2enc.1 -text
 docs/mplex.1 -text
 docs/png2yuv.1 -text
 docs/ppmtoy4m.1 -text
-docs/uninstall-info.sh -text
 docs/y4mcolorbars.1 -text
 docs/y4mtoppm.1 -text
 docs/yuv2lav.1 -text
