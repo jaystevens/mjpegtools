@@ -364,6 +364,7 @@ y4mdenoise/Allocator.hh -text
 y4mdenoise/BitmapRegion2D.hh -text
 y4mdenoise/DoublyLinkedList.hh -text
 y4mdenoise/Limits.hh -text
+y4mdenoise/Makefile.am -text
 y4mdenoise/MotionSearcher.hh -text
 y4mdenoise/ReferenceFrame.hh -text
 y4mdenoise/Region2D.hh -text
