@@ -1,3 +1,4 @@
+/.deps
 /Makefile
 /Makefile.in
 /aclocal.m4
@@ -5,6 +6,7 @@ aenc/.deps
 aenc/Makefile
 aenc/Makefile.in
 aenc/mp2enc
+/confdefs.h
 /config.cache
 /config.h
 /config.h.in
@@ -43,3 +45,5 @@ scripts/Makefile
 scripts/Makefile.in
 /stamp-h
 /stamp-h.in
+utils/lavaddwav
+utils/lavtrans
