@@ -190,6 +190,7 @@ scripts/transcode -text
 utils/Makefile.am -text
 utils/cpu_accel.c -text
 utils/cpu_accel.h -text
+utils/format_codes.h -text
 utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
 utils/mjpeg_types.h -text
