@@ -38,6 +38,7 @@ aenc/wav_io.c -text
 aenc/wav_io.h -text
 /autogen.sh -text
 /configure.in -text
+docs/FAQ.txt -text
 docs/Makefile.am -text
 docs/authors.sgml -text
 docs/divxdec.1 -text
