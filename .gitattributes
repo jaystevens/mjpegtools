@@ -53,7 +53,6 @@ lavtools/frequencies.c -text
 lavtools/frequencies.h -text
 lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
-lavtools/lav2dfilter.c -text
 lavtools/lav2wav.c -text
 lavtools/lav2yuv.c -text
 lavtools/lav_io.c -text
