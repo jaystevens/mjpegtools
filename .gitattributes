@@ -91,6 +91,7 @@ mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
 mpeg2enc/mjpegcat.c -text
+mpeg2enc/mmx.h -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.c -text
@@ -108,6 +109,7 @@ mpeg2enc/putseq.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/putvlc.c -text
 mpeg2enc/qdist1_mmx.s -text
 mpeg2enc/qdist1_sse.s -text
+mpeg2enc/qrowdist_sse.c -text
 mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.c -text
 mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
