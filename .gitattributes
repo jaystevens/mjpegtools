@@ -92,6 +92,7 @@ lavtools/lav_common.h -text
 lavtools/lav_io.c -text
 lavtools/lav_io.h -text
 lavtools/lavaddwav.c -text
+lavtools/lavinfo.c -text
 lavtools/lavpipe.c -text
 lavtools/lavplay.c -text
 lavtools/lavrec.c -text
