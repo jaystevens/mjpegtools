@@ -264,6 +264,7 @@ scripts/lav2avi.sh -text
 scripts/lav2mpeg -text
 scripts/makePLI.py -text
 scripts/mpegtranscode -text
+/strip_fPIC.sh -text
 utils/Makefile.am -text
 utils/altivec/Makefile.am -text
 utils/altivec/README -text
