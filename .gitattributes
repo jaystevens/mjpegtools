@@ -84,6 +84,7 @@ lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
 /missing -text
 /mjpeg_howto.txt -text
+/mjpegtools.1 -text
 /mjpegtools.spec -text
 /mkinstalldirs -text
 mpeg2enc/ChangeLog -text
