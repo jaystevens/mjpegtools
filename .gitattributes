@@ -98,6 +98,7 @@ lavtools/oldyuv4mpeg.h -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/ppmtoy4m.c -text
+lavtools/riffinfo.h -text
 lavtools/subsample.c -text
 lavtools/subsample.h -text
 lavtools/testrec.c -text
