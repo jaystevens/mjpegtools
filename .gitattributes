@@ -126,6 +126,7 @@ lavtools/yuvscaler_implementation.txt -text
 lavtools/yuvscaler_resample.c -text
 /mjpeg_howto.txt -text
 /mjpegtools-config.in -text
+/mjpegtools.pc.in -text
 /mjpegtools.spec -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
