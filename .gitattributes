@@ -45,8 +45,10 @@ lavtools/lav2wav.c -text
 lavtools/lav2yuv.c -text
 lavtools/lav_io.c -text
 lavtools/lav_io.h -text
+lavtools/lavaddwav.c -text
 lavtools/lavplay.c -text
 lavtools/lavrec.c -text
+lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
 lavtools/v4l-conf.c -text
 /missing -text
@@ -132,6 +134,3 @@ mplex/vector.c -text
 mplex/vector.h -text
 scripts/lav2mpeg -text
 scripts/linkmpeg -text
-utils/Makefile -text
-utils/lavaddwav.c -text
-utils/lavtrans.c -text
