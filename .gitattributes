@@ -149,4 +149,3 @@ mplex/systems.c -text
 mplex/vector.c -text
 mplex/vector.h -text
 scripts/lav2mpeg -text
-scripts/linkmpeg -text
