@@ -49,6 +49,7 @@ docs/lavrec.1 -text
 docs/lavtools.sgml -text
 docs/lavtrans.1 -text
 docs/mjpegtools.1 -text
+docs/mp2enc.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
 docs/xlav.1 -text
