@@ -69,6 +69,7 @@ lavtools/frequencies.h -text
 lavtools/glav.c -text
 lavtools/glav.h -text
 lavtools/glav_main.c -text
+lavtools/jpeg2yuv.c -text
 lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
 lavtools/lav2divx.cpp -text
