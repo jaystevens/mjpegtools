@@ -123,6 +123,8 @@ mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/simd.h -text
 mpeg2enc/stats.c -text
 mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/synchrolib.c -text
+mpeg2enc/synchrolib.h -text
 mpeg2enc/transfrm.c -text
 mpeg2enc/vlc.h -text
 mpeg2enc/writepic.c -text
