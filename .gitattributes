@@ -181,7 +181,7 @@ mpeg2enc/quant_mmx.s -text
 mpeg2enc/quantize.cc -text
 mpeg2enc/quantize_ref.c -text
 mpeg2enc/quantize_ref.h -text
-mpeg2enc/quantize_x86.cc -text
+mpeg2enc/quantize_x86.c -text
 mpeg2enc/ratectl.cc -text
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.cc -text
@@ -192,7 +192,9 @@ mpeg2enc/synchrolib.h -text
 mpeg2enc/syntaxparams.h -text
 mpeg2enc/tables.h -text
 mpeg2enc/transfrm.cc -text
+mpeg2enc/transfrm_ref.c -text
 mpeg2enc/transfrm_ref.h -text
+mpeg2enc/transfrm_x86.c -text
 mpeg2enc/vlc.h -text
 mpeg2enc/writepic.cc -text
 mplex/COPYING -text
