@@ -54,6 +54,9 @@ mpeg2enc/dist1_10_mmx.s -text
 mpeg2enc/dist1_11.s -text
 mpeg2enc/dist1_11_mmx.o -text
 mpeg2enc/dist1_11_mmx.s -text
+mpeg2enc/fdct_mmx.o -text
+mpeg2enc/fdct_mmx.s -text
+mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
 mpeg2enc/fdctref.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/fdist1_00.o -text
@@ -62,6 +65,9 @@ mpeg2enc/fdist1_mmx.o -text
 mpeg2enc/fdist1_mmx.s -text svneol=unset#application/octet-stream
 mpeg2enc/global.h -text
 mpeg2enc/idct.c -text
+mpeg2enc/idct_mmx.o -text
+mpeg2enc/idct_mmx.s -text
+mpeg2enc/idctdata.c -text
 mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
