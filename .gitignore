@@ -1,3 +1,4 @@
+/*-stamp
 /*mjpegtools*.deb
 /.deps
 /Makefile
@@ -20,8 +21,16 @@ aenc/mp2enc
 /config.status
 /config.sub
 /configure
+debian/*.substvars
+debian/*i686*
 debian/Makefile
 debian/Makefile.in
+debian/build-*
+debian/files
+debian/inst-*
+debian/libmjpegtools-[0-9]*
+debian/libmjpegtools-dev
+debian/mjpegtools
 /depcomp
 docs/.deps
 docs/.libs
