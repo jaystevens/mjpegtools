@@ -66,6 +66,7 @@ docs/yuv2lav.1 -text
 docs/yuv4mpeg.5 -text
 docs/yuvdenoise.1 -text
 docs/yuvfps.1 -text
+docs/yuvinactive.1 -text
 docs/yuvkineco.1 -text
 docs/yuvmedianfilter.1 -text
 docs/yuvplay.1 -text
@@ -132,6 +133,7 @@ lavtools/yuvcorrect.h -text
 lavtools/yuvcorrect_functions.c -text
 lavtools/yuvcorrect_tune.c -text
 lavtools/yuvfps.c -text
+lavtools/yuvinactive.c -text
 lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
