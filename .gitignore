@@ -173,7 +173,5 @@ yuvfilters/.deps
 yuvfilters/.libs
 yuvfilters/Makefile
 yuvfilters/Makefile.in
-yuvfilters/yuvfilter
 yuvfilters/yuvkineco
-yuvfilters/yuvthru
 yuvfilters/yuvycsnoise
