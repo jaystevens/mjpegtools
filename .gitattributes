@@ -1,0 +1,5 @@
+* text=auto !eol
+/Makefile -text
+/movtar.c -text
+/movtar.h -text
+/movtar_play.c -text
