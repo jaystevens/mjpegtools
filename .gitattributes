@@ -68,6 +68,7 @@ docs/yuv2divx.1 -text
 docs/yuv2lav.1 -text
 docs/yuv4mpeg.5 -text
 docs/yuvdenoise.1 -text
+docs/yuvfps.1 -text
 docs/yuvkineco.1 -text
 docs/yuvmedianfilter.1 -text
 docs/yuvplay.1 -text
