@@ -67,6 +67,7 @@ lavtools/yuvscaler
 /ltmain.sh
 /mjpegtools-*.tar.gz
 /mjpegtools-config
+/mjpegtools.pc
 mpeg2enc/.deps
 mpeg2enc/.libs
 mpeg2enc/Makefile
