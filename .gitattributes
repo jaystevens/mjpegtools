@@ -59,6 +59,8 @@ mpeg2enc/bdist2_mmx.o -text svneol=unset#unset
 mpeg2enc/bdist2_mmx.s -text
 mpeg2enc/config.h -text svneol=unset#application/octet-stream
 mpeg2enc/conform.c -text
+mpeg2enc/cpuid.o -text svneol=unset#unset
+mpeg2enc/cpuid.s -text
 mpeg2enc/dist1_00.o -text
 mpeg2enc/dist1_00.s -text svneol=unset#application/octet-stream
 mpeg2enc/dist1_00_mmx.o -text
@@ -115,6 +117,8 @@ mpeg2enc/quantize.c -text
 mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/ratectl.c -text
 mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/rcdist_mmx.o -text svneol=unset#unset
+mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.c -text
 mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/stats.c -text
