@@ -108,6 +108,7 @@ lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
 lavtools/liblavrec.h -text
 lavtools/matteblend.flt.c -text
+lavtools/multiblend.flt.c -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/ppmtoy4m.c -text
@@ -131,7 +132,7 @@ lavtools/yuvscaler_resample.c -text
 /mjpeg_howto.txt -text
 /mjpegtools-config.in -text
 /mjpegtools.pc.in -text
-/mjpegtools.spec -text
+/mjpegtools.spec.in -text
 mpeg2enc/ChangeLog -text
 mpeg2enc/INSTALL -text
 mpeg2enc/Makefile.am -text
