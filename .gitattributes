@@ -6,9 +6,7 @@
 /ChangeLog -text
 /HINTS -text
 /INSTALL -text
-/Makefile -text
 /Makefile.am -text
-/Makefile.in -text
 /NEWS -text
 /PLANS -text
 /README -text
