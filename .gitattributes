@@ -170,8 +170,8 @@ mplex/InElemStream.hh -text
 mplex/Makefile.am -text
 mplex/README -text
 mplex/TODO -text
+mplex/ac3strm_in.cc -text
 mplex/audiostrm.hh -text
-mplex/audiostrm_in.cc -text
 mplex/audiostrm_out.cc -text
 mplex/aunit.hh -text
 mplex/bits.cc -text
@@ -183,6 +183,7 @@ mplex/inputstrm.hh -text
 mplex/interact.cc -text
 mplex/interact.hh -text
 mplex/main.cc -text
+mplex/mpastrm_in.cc -text
 mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/mplexconsts.hh -text
 mplex/multplex.cc -text
