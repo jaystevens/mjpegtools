@@ -106,8 +106,6 @@ lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
 lavtools/liblavrec.h -text
 lavtools/matteblend.flt.c -text
-lavtools/oldyuv4mpeg.c -text
-lavtools/oldyuv4mpeg.h -text
 lavtools/pipelist.c -text
 lavtools/pipelist.h -text
 lavtools/ppmtoy4m.c -text
