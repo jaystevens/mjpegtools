@@ -69,6 +69,7 @@ mpeg2enc/INSTALL -text
 mpeg2enc/Makefile.am -text
 mpeg2enc/NOTES -text
 mpeg2enc/README -text
+mpeg2enc/TODO -text
 mpeg2enc/attributes.h -text
 mpeg2enc/bdist1_mmx.s -text
 mpeg2enc/bdist2_mmx.s -text
