@@ -140,6 +140,8 @@ mplex/mpeg_systems_paper_0.99.ps.gz -text
 mplex/multplex.c -text
 mplex/systems.c -text
 mplex/timecode.c -text
+mplex/vector.c -text
+mplex/vector.h -text
 scripts/avi2mpeg -text
 scripts/linkmpeg -text
 utils/Makefile -text
