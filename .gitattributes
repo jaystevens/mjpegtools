@@ -230,6 +230,7 @@ scripts/aufnahme -text
 scripts/berechne -text
 scripts/codiere -text
 scripts/frameber -text
+scripts/img2mpg -text
 scripts/lav2mpeg -text
 scripts/mpegtranscode -text
 utils/Makefile.am -text
