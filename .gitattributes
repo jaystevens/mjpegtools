@@ -38,6 +38,9 @@ aenc/tonal.c -text
 /editlist.c -text
 /editlist.h -text
 /install-sh -text
+/jpegutils.c -text
+/lav2wav.c -text
+/lav2yuv.c -text
 /lav_io.c -text
 /lav_io.h -text
 /lavplay.c -text
@@ -75,7 +78,6 @@ mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
-mpeg2enc/mjpegcat.c -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.c -text
@@ -125,7 +127,6 @@ mplex/systems.c -text
 mplex/timecode.c -text
 mplex/vector.c -text
 mplex/vector.h -text
-scripts/avi2mpeg -text
 scripts/linkmpeg -text
 utils/Makefile -text
 utils/lavaddwav.c -text
