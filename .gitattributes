@@ -54,6 +54,7 @@ docs/mp2enc.1 -text
 docs/mpeg2enc.1 -text
 docs/mplex.1 -text
 docs/ppmtoy4m.1 -text
+docs/y4mcolorbars.1 -text
 docs/yuv2lav.1 -text
 docs/yuvkineco.1 -text
 docs/yuvmedianfilter.1 -text
