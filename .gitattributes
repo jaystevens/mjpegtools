@@ -16,3 +16,47 @@
 /movtar.c -text
 /movtar.h -text
 /movtar_play.c -text
+mpeg2enc/ChangeLog -text
+mpeg2enc/INSTALL -text
+mpeg2enc/Makefile -text svneol=unset#application/octet-stream
+mpeg2enc/README -text
+mpeg2enc/config.h -text svneol=unset#application/octet-stream
+mpeg2enc/conform.c -text
+mpeg2enc/dist1_00.o -text
+mpeg2enc/dist1_00.s -text svneol=unset#application/octet-stream
+mpeg2enc/dist1_mmx.o -text
+mpeg2enc/dist1_mmx.s -text svneol=unset#application/octet-stream
+mpeg2enc/fdctref.c -text
+mpeg2enc/fdctref.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/fdist1_00.o -text
+mpeg2enc/fdist1_00.s -text svneol=unset#application/octet-stream
+mpeg2enc/fdist1_mmx.o -text
+mpeg2enc/fdist1_mmx.s -text svneol=unset#application/octet-stream
+mpeg2enc/global.h -text
+mpeg2enc/idct.c -text
+mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
+mpeg2enc/motion.c -text
+mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/mpeg2enc.c -text
+mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/mpeg2enc.h -text
+mpeg2enc/predict.c -text
+mpeg2enc/putbits.c -text
+mpeg2enc/puthdr.c -text
+mpeg2enc/puthdr.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/putmpg.c -text
+mpeg2enc/putpic.c -text
+mpeg2enc/putseq.c -text
+mpeg2enc/putseq.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/putvlc.c -text
+mpeg2enc/quantize.c -text
+mpeg2enc/quantize.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/ratectl.c -text
+mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/readpic.c -text
+mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/stats.c -text
+mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/transfrm.c -text
+mpeg2enc/vlc.h -text
+mpeg2enc/writepic.c -text
