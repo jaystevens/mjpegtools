@@ -126,6 +126,7 @@ mpeg2enc/idctdata.c -text
 mpeg2enc/mjpegcat.c -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
+mpeg2enc/motionest.c -text
 mpeg2enc/mpeg2enc.c -text
 mpeg2enc/mpeg2enc.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.h -text
@@ -208,6 +209,8 @@ utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
 utils/mjpeg_types.h -text
 utils/mmx.h -text
+utils/motionsearch.c -text
+utils/motionsearch.h -text
 yuvdenoise/COPYING -text
 yuvdenoise/ChangeLog -text
 yuvdenoise/Makefile.am -text
