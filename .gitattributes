@@ -78,6 +78,7 @@ lavtools/ypipe.c -text
 lavtools/yuv2lav.c -text
 lavtools/yuv4mpeg.c -text
 lavtools/yuv4mpeg.h -text
+lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
 lavtools/yuvscaler.c -text
 lavtools/yuvscaler.h -text
