@@ -60,6 +60,7 @@ lavtools/transist.flt
 lavtools/v4l-conf
 lavtools/xlav
 lavtools/y4mcolorbars
+lavtools/y4mtoppm
 lavtools/ypipe
 lavtools/yuv2divx
 lavtools/yuv2lav
