@@ -41,6 +41,7 @@ aenc/wav_io.h -text
 /configure.in -text
 docs/Makefile.am -text
 docs/authors.sgml -text
+docs/jpeg2yuv.1 -text
 docs/lav2wav.1 -text
 docs/lav2yuv.1 -text
 docs/lavpipe.1 -text
