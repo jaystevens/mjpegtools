@@ -182,9 +182,9 @@ mpeg2enc/elemstrmwriter.hh -text
 mpeg2enc/encoderparams.cc -text
 mpeg2enc/encoderparams.hh -text
 mpeg2enc/encodertypes.h -text
+mpeg2enc/fdct.c -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
-mpeg2enc/fdctref.c -text
 mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.c -text
 mpeg2enc/macroblock.cc -text
