@@ -71,6 +71,8 @@ lavtools/yuvscaler
 /mjpegtools.pc
 /mjpegtools.spec
 /mkinstalldirs
+mpeg2enc/*.la
+mpeg2enc/*.lo
 mpeg2enc/.deps
 mpeg2enc/.libs
 mpeg2enc/Makefile
