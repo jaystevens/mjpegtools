@@ -75,6 +75,7 @@ mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
 mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
+mpeg2enc/mjpegcat.c -text
 mpeg2enc/motion.c -text
 mpeg2enc/motion.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/mpeg2enc.c -text
