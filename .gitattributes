@@ -13,6 +13,7 @@
 /README.avilib -text
 /REQUIRED_SOFTWARE -text
 /TODO -text
+/acconfig.h -text
 aenc/Makefile.am -text
 aenc/README -text
 aenc/common.c -text
@@ -67,7 +68,6 @@ mpeg2enc/README -text
 mpeg2enc/attributes.h -text
 mpeg2enc/bdist1_mmx.s -text
 mpeg2enc/bdist2_mmx.s -text
-mpeg2enc/config.h -text svneol=unset#application/octet-stream
 mpeg2enc/conform.c -text
 mpeg2enc/cpu_accel.c -text
 mpeg2enc/cpu_accel.h -text
@@ -81,6 +81,7 @@ mpeg2enc/dist1_10_mmx.s -text
 mpeg2enc/dist1_11.s -text
 mpeg2enc/dist1_11_mmx.s -text
 mpeg2enc/dist2_mmx.s -text
+mpeg2enc/fastintfns.h -text
 mpeg2enc/fdct_mmx.s -text
 mpeg2enc/fdctdata.c -text
 mpeg2enc/fdctref.c -text
@@ -124,7 +125,6 @@ mpeg2enc/ratectl.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/rcdist_mmx.s -text
 mpeg2enc/readpic.c -text
 mpeg2enc/readpic.c-orig -text svneol=unset#application/octet-stream
-mpeg2enc/simd.h -text
 mpeg2enc/stats.c -text
 mpeg2enc/stats.c-orig -text svneol=unset#application/octet-stream
 mpeg2enc/transfrm.c -text
