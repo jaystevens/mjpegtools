@@ -105,7 +105,6 @@ mpeg2enc/global.h -text
 mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.s -text
 mpeg2enc/idctdata.c -text
-mpeg2enc/jpegutils.c -text svneol=unset#application/octet-stream
 mpeg2enc/mblock_sad_mmx.s -text
 mpeg2enc/mblock_sad_mmxe.s -text
 mpeg2enc/mblock_sub44_sads.c -text
