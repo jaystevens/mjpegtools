@@ -150,6 +150,7 @@ mpeg2enc/NOTES -text
 mpeg2enc/README -text
 mpeg2enc/TODO -text
 mpeg2enc/conform.cc -text
+mpeg2enc/elemstrmwriter.cc -text
 mpeg2enc/elemstrmwriter.hh -text
 mpeg2enc/encoderparams.cc -text
 mpeg2enc/encoderparams.hh -text
