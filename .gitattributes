@@ -39,6 +39,8 @@ attic/motion.c -text
 /autogen.sh -text
 /configure.in -text
 docs/Makefile.am -text
+docs/authors.sgml -text
+docs/lavtools.sgml -text
 /install-sh -text
 lavtools/Makefile.am -text
 lavtools/audiolib.c -text
