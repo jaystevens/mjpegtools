@@ -31,6 +31,7 @@ aenc/table_th.h -text
 aenc/tables.c -text
 aenc/tonal.c -text
 aenc/wav_io.c -text
+attic/motion.c -text
 /autogen.sh -text
 /configure.in -text
 /install-sh -text
