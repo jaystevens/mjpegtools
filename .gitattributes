@@ -235,10 +235,11 @@ mplex/ac3strm_in.cpp -text
 mplex/audiostrm.hpp -text
 mplex/audiostrm_out.cpp -text
 mplex/aunit.hpp -text
+mplex/aunitbuffer.hpp -text
 mplex/bits.cpp -text
 mplex/bits.hpp -text
-mplex/buffer.cpp -text
-mplex/buffer.hpp -text
+mplex/decodebufmodel.cpp -text
+mplex/decodebufmodel.hpp -text
 mplex/dtsstrm_in.cpp -text
 mplex/inputstrm.cpp -text
 mplex/inputstrm.hpp -text
