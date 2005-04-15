@@ -28,7 +28,6 @@ aenc/encoder.h -text
 aenc/fft.c -text
 aenc/musicin.c -text
 aenc/psy.c -text
-aenc/subs.c -text
 aenc/table_absthr.h -text
 aenc/table_alloc.h -text
 aenc/table_cb.h -text
