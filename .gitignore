@@ -86,6 +86,7 @@ lavtools/yuvinactive
 lavtools/yuvmedianfilter
 lavtools/yuvplay
 lavtools/yuvscaler
+lavtools/yuyvtoy4m
 /libtool
 /ltmain.sh
 /missing
