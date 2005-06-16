@@ -127,6 +127,7 @@ lavtools/liblavplay.h -text
 lavtools/liblavrec.c -text
 lavtools/liblavrec.h -text
 lavtools/matteblend.flt.c -text
+lavtools/mjpeg_simd_helper.c -text
 lavtools/multiblend.flt.c -text
 lavtools/pgmtoy4m.c -text
 lavtools/pipelist.c -text
@@ -343,7 +344,6 @@ utils/fastintfns.h -text
 utils/format_codes.h -text
 utils/mjpeg_logging.c -text
 utils/mjpeg_logging.h -text
-utils/mjpeg_simd_helper.c -text
 utils/mjpeg_types.h -text
 utils/mmx.h -text
 utils/mmxsse/Makefile.am -text
