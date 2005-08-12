@@ -57,6 +57,7 @@ lavtools/lavrec
 lavtools/lavtrans
 lavtools/lavvideo
 lavtools/matteblend.flt
+lavtools/mjpeg_simd_helper
 lavtools/multiblend.flt
 lavtools/pgmtoy4m
 lavtools/png2yuv
