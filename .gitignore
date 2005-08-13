@@ -142,6 +142,7 @@ y4mdenoise/.deps
 y4mdenoise/.libs
 y4mdenoise/Makefile
 y4mdenoise/Makefile.in
+y4mdenoise/regiontest
 y4mdenoise/y4mdenoise
 y4munsharp/*.la
 y4munsharp/*.lo
