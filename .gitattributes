@@ -274,8 +274,6 @@ mplex/stream_params.cpp -text
 mplex/stream_params.hpp -text
 mplex/systems.cpp -text
 mplex/systems.hpp -text
-mplex/vector.cpp -text
-mplex/vector.hpp -text
 mplex/videostrm.hpp -text
 mplex/videostrm_in.cpp -text
 mplex/videostrm_out.cpp -text
