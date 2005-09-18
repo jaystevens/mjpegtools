@@ -64,9 +64,6 @@ docs/lavrec.1 -text
 docs/lavtools.sgml -text
 docs/lavtrans.1 -text
 docs/mjpeg-howto.info -text
-docs/mjpeg-howto.info-1 -text
-docs/mjpeg-howto.info-2 -text
-docs/mjpeg-howto.info-3 -text
 docs/mjpegtools.1 -text
 docs/mp2enc.1 -text
 docs/mpeg2enc.1 -text
