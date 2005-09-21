@@ -331,7 +331,6 @@ utils/altivec/sumsq_sub22.c -text
 utils/altivec/variance.c -text
 utils/altivec/vectorize.h -text
 utils/altivec/verify.h -text
-utils/attributes.h -text
 utils/cpu_accel.c -text
 utils/cpu_accel.h -text
 utils/cpuinfo.c -text
