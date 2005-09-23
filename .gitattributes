@@ -116,7 +116,6 @@ lavtools/lavinfo.c -text
 lavtools/lavpipe.c -text
 lavtools/lavplay.c -text
 lavtools/lavrec.c -text
-lavtools/lavtc.bash -text
 lavtools/lavtrans.c -text
 lavtools/lavvideo.c -text
 lavtools/liblavplay.c -text
@@ -285,6 +284,7 @@ scripts/codiere -text
 scripts/frameber -text
 scripts/lav2avi.sh -text
 scripts/lav2mpeg -text
+scripts/lavtc.sh -text
 scripts/makePLI.py -text
 scripts/mpegtranscode -text
 utils/Makefile.am -text
