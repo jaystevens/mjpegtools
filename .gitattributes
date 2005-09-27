@@ -232,7 +232,6 @@ mpeg2enc/transfrm.cc -text
 mpeg2enc/transfrm_ref.c -text
 mpeg2enc/transfrm_ref.h -text
 mpeg2enc/transfrm_x86.c -text
-mpeg2enc/writepic.cc -text
 mplex/COPYING -text
 mplex/Doxyfile -text
 mplex/INSTRUCT -text
