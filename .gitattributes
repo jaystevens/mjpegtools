@@ -185,7 +185,6 @@ mpeg2enc/idct.c -text
 mpeg2enc/idct_mmx.c -text
 mpeg2enc/macroblock.cc -text
 mpeg2enc/macroblock.hh -text
-mpeg2enc/mjpegcat.cc -text
 mpeg2enc/motionest.cc -text
 mpeg2enc/mpeg2coder.cc -text
 mpeg2enc/mpeg2coder.hh -text
