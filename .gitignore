@@ -148,6 +148,14 @@ y4munsharp/.libs
 y4munsharp/Makefile
 y4munsharp/Makefile.in
 y4munsharp/y4munsharp
+yuvcorrect/*.la
+yuvcorrect/*.lo
+yuvcorrect/.deps
+yuvcorrect/.libs
+yuvcorrect/Makefile
+yuvcorrect/Makefile.in
+yuvcorrect/yuvcorrect
+yuvcorrect/yuvcorrect_tune
 yuvdeinterlace/*.m1v
 yuvdeinterlace/*.nuv
 yuvdeinterlace/*.yuv

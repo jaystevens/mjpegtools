@@ -376,6 +376,11 @@ y4mdenoise/newdenoise.hh -text
 y4mdenoise/regiontest.cc -text
 y4munsharp/Makefile.am -text
 y4munsharp/y4munsharp.c -text
+yuvcorrect/Makefile.am -text
+yuvcorrect/yuvcorrect.c -text
+yuvcorrect/yuvcorrect.h -text
+yuvcorrect/yuvcorrect_functions.c -text
+yuvcorrect/yuvcorrect_tune.c -text
 yuvdeinterlace/Makefile.am -text
 yuvdeinterlace/blend_fields.c -text
 yuvdeinterlace/blend_fields.h -text
