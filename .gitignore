@@ -80,8 +80,6 @@ lavtools/y4mtoyuv
 lavtools/ypipe
 lavtools/yuv2lav
 lavtools/yuv4mpeg
-lavtools/yuvcorrect
-lavtools/yuvcorrect_tune
 lavtools/yuvfps
 lavtools/yuvinactive
 lavtools/yuvmedianfilter
