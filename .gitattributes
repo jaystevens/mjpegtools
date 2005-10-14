@@ -156,11 +156,6 @@ lavtools/yuvfps.c -text
 lavtools/yuvinactive.c -text
 lavtools/yuvmedianfilter.c -text
 lavtools/yuvplay.c -text
-lavtools/yuvscaler.c -text
-lavtools/yuvscaler.h -text
-lavtools/yuvscaler_bicubic.c -text
-lavtools/yuvscaler_implementation.txt -text
-lavtools/yuvscaler_resample.c -text
 lavtools/yuyvtoy4m.c -text
 /mjpeg_howto.txt -text
 /mjpegtools.pc.in -text
@@ -412,3 +407,9 @@ yuvfilters/yuvkineco.c -text
 yuvfilters/yuvstdin.c -text
 yuvfilters/yuvstdout.c -text
 yuvfilters/yuvycsnoise.c -text
+yuvscaler/Makefile.am -text
+yuvscaler/yuvscaler.c -text
+yuvscaler/yuvscaler.h -text
+yuvscaler/yuvscaler_bicubic.c -text
+yuvscaler/yuvscaler_implementation.txt -text
+yuvscaler/yuvscaler_resample.c -text

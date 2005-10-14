@@ -86,7 +86,6 @@ lavtools/yuvfps
 lavtools/yuvinactive
 lavtools/yuvmedianfilter
 lavtools/yuvplay
-lavtools/yuvscaler
 lavtools/yuyvtoy4m
 /libtool
 /ltmain.sh
@@ -187,3 +186,10 @@ yuvfilters/Makefile
 yuvfilters/Makefile.in
 yuvfilters/yuvkineco
 yuvfilters/yuvycsnoise
+yuvscaler/*.la
+yuvscaler/*.lo
+yuvscaler/.deps
+yuvscaler/.libs
+yuvscaler/Makefile
+yuvscaler/Makefile.in
+yuvscaler/yuvscaler
