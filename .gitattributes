@@ -368,6 +368,17 @@ y4mdenoise/newdenoise.hh -text
 y4mdenoise/regiontest.cc -text
 y4munsharp/Makefile.am -text
 y4munsharp/y4munsharp.c -text
+y4mutils/Makefile.am -text
+y4mutils/pgmtoy4m.c -text
+y4mutils/y4mblack.c -text
+y4mutils/y4mhist.c -text
+y4mutils/y4minterlace.c -text
+y4mutils/y4mshift.c -text
+y4mutils/y4mspatialfilter.c -text
+y4mutils/y4mtoyuv.c -text
+y4mutils/yuv4mpeg.c -text
+y4mutils/yuvmedianfilter.c -text
+y4mutils/yuyvtoy4m.c -text
 yuvcorrect/Makefile.am -text
 yuvcorrect/yuvcorrect.c -text
 yuvcorrect/yuvcorrect.h -text
