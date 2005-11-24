@@ -375,6 +375,7 @@ y4mutils/y4mhist.c -text
 y4mutils/y4minterlace.c -text
 y4mutils/y4mshift.c -text
 y4mutils/y4mspatialfilter.c -text
+y4mutils/y4mtoqt.c -text
 y4mutils/y4mtoyuv.c -text
 y4mutils/yuv4mpeg.c -text
 y4mutils/yuvmedianfilter.c -text
