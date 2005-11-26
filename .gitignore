@@ -147,6 +147,7 @@ y4mutils/y4mhist
 y4mutils/y4minterlace
 y4mutils/y4mshift
 y4mutils/y4mspatialfilter
+y4mutils/y4mtoqt
 y4mutils/y4mtoyuv
 y4mutils/yuv4mpeg
 y4mutils/yuvmedianfilter
