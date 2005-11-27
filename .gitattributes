@@ -370,6 +370,7 @@ y4munsharp/Makefile.am -text
 y4munsharp/y4munsharp.c -text
 y4mutils/Makefile.am -text
 y4mutils/pgmtoy4m.c -text
+y4mutils/qttoy4m.c -text
 y4mutils/y4mblack.c -text
 y4mutils/y4mhist.c -text
 y4mutils/y4minterlace.c -text
