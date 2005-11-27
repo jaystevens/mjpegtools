@@ -142,6 +142,7 @@ y4mutils/.libs
 y4mutils/Makefile
 y4mutils/Makefile.in
 y4mutils/pgmtoy4m
+y4mutils/qttoy4m
 y4mutils/y4mblack
 y4mutils/y4mhist
 y4mutils/y4minterlace
