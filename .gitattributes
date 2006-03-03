@@ -105,7 +105,6 @@ lavtools/jpeg2yuv.c -text
 lavtools/jpegutils.c -text
 lavtools/jpegutils.h -text
 lavtools/lav2wav.c -text
-lavtools/lav2wav.h -text
 lavtools/lav2yuv.c -text
 lavtools/lav_common.c -text
 lavtools/lav_common.h -text
