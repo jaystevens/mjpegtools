@@ -8,6 +8,7 @@
 /INSTALL -text
 /INSTALL.real -text
 /Makefile.am -text
+/NEWS -text
 /PLANS -text
 /README -text
 /README.AltiVec -text
