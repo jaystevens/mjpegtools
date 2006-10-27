@@ -396,16 +396,7 @@ yuvcorrect/yuvcorrect.h -text
 yuvcorrect/yuvcorrect_functions.c -text
 yuvcorrect/yuvcorrect_tune.c -text
 yuvdeinterlace/Makefile.am -text
-yuvdeinterlace/blend_fields.c -text
-yuvdeinterlace/blend_fields.h -text
-yuvdeinterlace/main.c -text
-yuvdeinterlace/motionsearch_deint.c -text
-yuvdeinterlace/motionsearch_deint.h -text
-yuvdeinterlace/sinc_interpolation.c -text
-yuvdeinterlace/sinc_interpolation.h -text
-yuvdeinterlace/transform_block.c -text
-yuvdeinterlace/transform_block.h -text
-yuvdeinterlace/vector.h -text
+yuvdeinterlace/yuvdeinterlace.cc -text
 yuvdenoise/Makefile.am -text
 yuvdenoise/main.c -text
 yuvfilters/ChangeLog -text
