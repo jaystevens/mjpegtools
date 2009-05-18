@@ -360,6 +360,7 @@ y4mdenoise/DoublyLinkedList.hh -text
 y4mdenoise/Limits.hh -text
 y4mdenoise/Makefile.am -text
 y4mdenoise/MotionSearcher.hh -text
+y4mdenoise/PlacementAllocator.hh -text
 y4mdenoise/ReferenceFrame.hh -text
 y4mdenoise/Region2D.hh -text
 y4mdenoise/SearchBorder.hh -text
@@ -369,6 +370,7 @@ y4mdenoise/SetRegion2D.hh -text
 y4mdenoise/SkipList.hh -text
 y4mdenoise/Status_t.h -text
 y4mdenoise/TemplateLib.hh -text
+y4mdenoise/VariableSizeAllocator.hh -text
 y4mdenoise/Vector.hh -text
 y4mdenoise/implementation.html -text
 y4mdenoise/main.c -text
