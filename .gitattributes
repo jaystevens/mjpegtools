@@ -228,6 +228,7 @@ mplex/Doxyfile -text
 mplex/INSTRUCT -text
 mplex/Makefile.am -text
 mplex/README -text
+mplex/README.subtitles -text
 mplex/TODO -text
 mplex/ac3strm_in.cpp -text
 mplex/audiostrm.hpp -text
@@ -257,6 +258,7 @@ mplex/stillsstream.cpp -text
 mplex/stillsstream.hpp -text
 mplex/stream_params.cpp -text
 mplex/stream_params.hpp -text
+mplex/subpstream.cpp -text
 mplex/systems.cpp -text
 mplex/systems.hpp -text
 mplex/videostrm.hpp -text
