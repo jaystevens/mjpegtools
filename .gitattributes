@@ -262,9 +262,6 @@ mplex/systems.hpp -text
 mplex/videostrm.hpp -text
 mplex/videostrm_in.cpp -text
 mplex/videostrm_out.cpp -text
-mplex/zalphastrm.hpp -text
-mplex/zalphastrm_in.cpp -text
-mplex/zalphastrm_out.cpp -text
 scripts/Makefile.am -text
 scripts/anytovcd.sh -text
 scripts/aufnahme -text
