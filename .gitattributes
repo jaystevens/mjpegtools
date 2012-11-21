@@ -378,9 +378,7 @@ y4mdenoise/regiontest.cc -text
 y4mscaler/COPYING -text
 y4mscaler/ChangeLog -text
 y4mscaler/INSTALL -text
-y4mscaler/Makefile -text
 y4mscaler/Makefile.am -text
-y4mscaler/Makefile.in -text
 y4mscaler/README -text
 y4mscaler/TODO -text
 y4mscaler/debug.h -text
