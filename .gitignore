@@ -128,7 +128,12 @@ y4mdenoise/Makefile
 y4mdenoise/Makefile.in
 y4mdenoise/regiontest
 y4mdenoise/y4mdenoise
+y4mscaler/*.la
+y4mscaler/*.lo
 y4mscaler/.deps
+y4mscaler/.libs
+y4mscaler/Makefile
+y4mscaler/Makefile.in
 y4munsharp/*.la
 y4munsharp/*.lo
 y4munsharp/.deps
