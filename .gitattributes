@@ -39,7 +39,6 @@ aenc/wav_io.c -text
 aenc/wav_io.h -text
 /autogen.sh -text
 /configure.ac -text
-/cpuinfo.sh -text
 debian/Makefile.am -text
 debian/changelog -text
 debian/control.in -text
