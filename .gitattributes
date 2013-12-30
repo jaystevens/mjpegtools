@@ -319,7 +319,6 @@ utils/altivec/vectorize.h -text
 utils/altivec/verify.h -text
 utils/cpu_accel.c -text
 utils/cpu_accel.h -text
-utils/cpuinfo.c -text
 utils/fastintfns.h -text
 utils/format_codes.h -text
 utils/mjpeg_logging.c -text
