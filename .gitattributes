@@ -429,7 +429,6 @@ yuvfilters/TODO -text
 yuvfilters/addtask.c -text
 yuvfilters/alloctask.c -text
 yuvfilters/initframe.c -text
-yuvfilters/main.c -text
 yuvfilters/putframe.c -text
 yuvfilters/yuvfilters.h -text
 yuvfilters/yuvkineco.c -text
