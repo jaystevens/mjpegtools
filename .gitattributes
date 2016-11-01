@@ -264,14 +264,9 @@ mplex/videostrm_in.cpp -text
 mplex/videostrm_out.cpp -text
 scripts/Makefile.am -text
 scripts/anytovcd.sh -text
-scripts/aufnahme -text
-scripts/berechne -text
-scripts/codiere -text
-scripts/frameber -text
 scripts/lav2avi.sh -text
 scripts/lav2mpeg -text
 scripts/lavtc.sh -text
-scripts/makePLI.py -text
 scripts/mpegtranscode -text
 utils/Makefile.am -text
 utils/altivec/Makefile.am -text
