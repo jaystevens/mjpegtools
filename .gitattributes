@@ -212,8 +212,6 @@ mpeg2enc/simd.h -text
 mpeg2enc/stats.cc -text
 mpeg2enc/streamstate.cc -text
 mpeg2enc/streamstate.h -text
-mpeg2enc/synchrolib.cc -text
-mpeg2enc/synchrolib.h -text
 mpeg2enc/syntaxconsts.h -text
 mpeg2enc/tables.c -text
 mpeg2enc/tables.h -text
